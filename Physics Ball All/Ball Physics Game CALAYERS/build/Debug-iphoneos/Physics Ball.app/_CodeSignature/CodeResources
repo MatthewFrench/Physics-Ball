@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>Default.png</key>
+		<data>
+		VL8lDI25y3Ye82o775hIZiS6ucE=
+		</data>
+		<key>Icon.png</key>
+		<data>
+		81Hr9RqgajTvt0k4uq2aDDWSwUQ=
+		</data>
+		<key>Level 1.lvl</key>
+		<data>
+		kqjeD05ljUUwL/tDbVirZTqKuD0=
+		</data>
+		<key>Level 10.lvl</key>
+		<data>
+		gR87oLi3prfyAjzn/9hVucBHDSY=
+		</data>
+		<key>Level 11.lvl</key>
+		<data>
+		5auC1033k/ate8UdpbFXMTiGSPU=
+		</data>
+		<key>Level 12.lvl</key>
+		<data>
+		W/E3Eyh7NQQPtYjEz0H66bz+2C4=
+		</data>
+		<key>Level 13.lvl</key>
+		<data>
+		WZI8toNxn3Ze7iDgWxYBni2RPz8=
+		</data>
+		<key>Level 2.lvl</key>
+		<data>
+		C4TZSjlYoHMdRYVh76VlKDWrfJI=
+		</data>
+		<key>Level 20.lvl</key>
+		<data>
+		dTC9sKMtMUaB7KyC+EGOCUTrp24=
+		</data>
+		<key>Level 3.lvl</key>
+		<data>
+		MfYEUYaixbr6BoRyY5kJ0OJFnWY=
+		</data>
+		<key>Level 4.lvl</key>
+		<data>
+		0f2+r5zAlKkL8dLYuyOJUdtjVa8=
+		</data>
+		<key>Level 5.lvl</key>
+		<data>
+		iR1x0Evga0tEGzldZYH1EFxAsGw=
+		</data>
+		<key>Level 6.lvl</key>
+		<data>
+		DN66EGP0SH9750JRvA0dGLpmGRY=
+		</data>
+		<key>Level 7.lvl</key>
+		<data>
+		bUWxVWsBAsWpqDBmrK8/jeVYBeU=
+		</data>
+		<key>Level 8.lvl</key>
+		<data>
+		zcx39wpQsOEuY94xhsbyZliFOs8=
+		</data>
+		<key>Level 9.lvl</key>
+		<data>
+		jFWMDZ1E50Kj1n4H3Gxzpa9Q2/A=
+		</data>
+		<key>MainWindow.nib</key>
+		<data>
+		Ddd3XbwMlNBdkxQyJAFhaAba5U4=
+		</data>
+		<key>Menu Level.lvl</key>
+		<data>
+		g3Rp2wNwimuhPIjSYD7VTyhvjxg=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		uMDv7CNrLhTcE0+QvpUHf+eKYO0=
+		</data>
+		<key>reverse gravity.png</key>
+		<data>
+		h38BDsn/jkZUB0H+k+17BsBSfGc=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>.*</key>
+		<true/>
+		<key>Info.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>ResourceRules.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>100</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

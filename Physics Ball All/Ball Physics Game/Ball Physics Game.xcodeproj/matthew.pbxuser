@@ -1,0 +1,457 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1083, 975}}";
+			sepNavSelRange = "{338, 8}";
+			sepNavVisRange = "{0, 1250}";
+			sepNavWindowFrame = "{{15, 110}, {1120, 763}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 11375}}";
+			sepNavSelRange = "{4059, 374}";
+			sepNavVisRange = "{3023, 1753}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Physics Ball */ = {
+		activeExec = 0;
+		executables = (
+			347C48CE11F7864C0016C6F4 /* Physics Ball */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 347C48CE11F7864C0016C6F4 /* Physics Ball */;
+		activeSDKPreference = iphoneos4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Physics Ball */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Physics Ball */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 347C48DF11F786660016C6F4 /* Code sense */;
+		executables = (
+			347C48CE11F7864C0016C6F4 /* Physics Ball */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					905,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					736,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 309645088;
+			PBXWorkspaceStateSaveDate = 309645088;
+		};
+		perUserProjectItems = {
+			3418415B1263570000631CA6 /* PBXTextBookmark */ = 3418415B1263570000631CA6 /* PBXTextBookmark */;
+			341E0F941219C62200740CC7 /* PBXTextBookmark */ = 341E0F941219C62200740CC7 /* PBXTextBookmark */;
+			3452E807126BA28F00E5E346 /* PlistBookmark */ = 3452E807126BA28F00E5E346 /* PlistBookmark */;
+			3499BF431225F64000FE4C8C /* PBXBookmark */ = 3499BF431225F64000FE4C8C /* PBXBookmark */;
+			34AEE27412636CE300AF359F /* PBXTextBookmark */ = 34AEE27412636CE300AF359F /* PBXTextBookmark */;
+			34AEE2B9126370D100AF359F /* PlistBookmark */ = 34AEE2B9126370D100AF359F /* PlistBookmark */;
+			34B27FAB1274CF4100AAEF9C /* PBXTextBookmark */ = 34B27FAB1274CF4100AAEF9C /* PBXTextBookmark */;
+			34B27FAC1274CF4100AAEF9C /* PBXTextBookmark */ = 34B27FAC1274CF4100AAEF9C /* PBXTextBookmark */;
+			34B27FAD1274CF4100AAEF9C /* PBXTextBookmark */ = 34B27FAD1274CF4100AAEF9C /* PBXTextBookmark */;
+			34B27FAE1274CF4100AAEF9C /* PBXTextBookmark */ = 34B27FAE1274CF4100AAEF9C /* PBXTextBookmark */;
+			34B778A8121A186100161758 /* PBXTextBookmark */ = 34B778A8121A186100161758 /* PBXTextBookmark */;
+			34F5B0481265314D0092E43E /* PBXTextBookmark */ = 34F5B0481265314D0092E43E /* PBXTextBookmark */;
+			34F5B04B1265314D0092E43E /* PBXTextBookmark */ = 34F5B04B1265314D0092E43E /* PBXTextBookmark */;
+			34F5B04C1265314D0092E43E /* PBXTextBookmark */ = 34F5B04C1265314D0092E43E /* PBXTextBookmark */;
+			34F5B093126536950092E43E /* PBXTextBookmark */ = 34F5B093126536950092E43E /* PBXTextBookmark */;
+			34F5B094126536950092E43E /* PBXTextBookmark */ = 34F5B094126536950092E43E /* PBXTextBookmark */;
+			34F5B0EC1265D43C0092E43E /* PlistBookmark */ = 34F5B0EC1265D43C0092E43E /* PlistBookmark */;
+			34F5B0EE1265D43C0092E43E /* PBXTextBookmark */ = 34F5B0EE1265D43C0092E43E /* PBXTextBookmark */;
+			34FFED191262914600E83112 /* PBXTextBookmark */ = 34FFED191262914600E83112 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 347C48DE11F786660016C6F4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {633, 234}}";
+			sepNavSelRange = "{281, 0}";
+			sepNavVisRange = "{88, 292}";
+		};
+	};
+	3418415B1263570000631CA6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3498634B11FA7B2300552BE2 /* Sprite.m */;
+		name = "Sprite.m: 9";
+		rLen = 0;
+		rLoc = 167;
+		rType = 0;
+		vrLen = 548;
+		vrLoc = 0;
+	};
+	341E0F941219C62200740CC7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 347C48F711F787890016C6F4 /* Menu.h */;
+		name = "Menu.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 179;
+		vrLoc = 0;
+	};
+	3452E807126BA28F00E5E346 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Ultimate_iPhone_Template-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/matthew/Desktop/My Code Sources/Ball Physics Game/Ultimate_iPhone_Template-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	34744EB111F7D3770011C917 /* GameView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {843, 623}}";
+			sepNavSelRange = "{57, 119}";
+			sepNavVisRange = "{0, 176}";
+		};
+	};
+	34744EB211F7D3770011C917 /* GameView.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{689, 725}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 4285}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1083, 1534}}";
+			sepNavSelRange = "{690, 0}";
+			sepNavVisRange = "{46, 2153}";
+			sepNavWindowFrame = "{{15, 110}, {1120, 763}}";
+		};
+	};
+	347C48CE11F7864C0016C6F4 /* Physics Ball */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Physics Ball";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	347C48DE11F786660016C6F4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	347C48DF11F786660016C6F4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	347C48F711F787890016C6F4 /* Menu.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 601}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 179}";
+		};
+	};
+	347C48F811F787890016C6F4 /* Menu.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{96, 386}\";\n            s = 0;\n        },\n                {\n            r = \"{601, 86}\";\n            s = 0;\n        },\n                {\n            r = \"{1253, 164}\";\n            s = 0;\n        },\n                {\n            r = \"{1443, 116}\";\n            s = 0;\n        },\n                {\n            r = \"{1580, 22}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 1611}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1083, 676}}";
+			sepNavSelRange = "{438, 0}";
+			sepNavVisRange = "{0, 842}";
+		};
+	};
+	3498634A11FA7B2300552BE2 /* Sprite.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {630, 663}}";
+			sepNavSelRange = "{33, 0}";
+			sepNavVisRange = "{0, 267}";
+		};
+	};
+	3498634B11FA7B2300552BE2 /* Sprite.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {940, 649}}";
+			sepNavSelRange = "{167, 0}";
+			sepNavVisRange = "{0, 548}";
+		};
+	};
+	3499BF431225F64000FE4C8C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 3499BEDA1225E15400FE4C8C /* reverse gravity.png */;
+	};
+	34AEE206126368B000AF359F /* MenuView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1083, 676}}";
+			sepNavSelRange = "{868, 0}";
+			sepNavVisRange = "{0, 899}";
+		};
+	};
+	34AEE207126368B000AF359F /* MenuView.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{462, 420}\";\n            s = 0;\n        },\n                {\n            r = \"{910, 2046}\";\n            s = 0;\n        },\n                {\n            r = \"{2977, 745}\";\n            s = 0;\n        },\n                {\n            r = \"{3743, 122}\";\n            s = 0;\n        },\n                {\n            r = \"{3892, 583}\";\n            s = 0;\n        },\n                {\n            r = \"{8238, 8831}\";\n            s = 0;\n        },\n                {\n            r = \"{17103, 22}\";\n            s = 0;\n        },\n                {\n            r = \"{17215, 1210}\";\n            s = 0;\n        },\n                {\n            r = \"{18445, 87}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 18540}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1195, 1638}}";
+			sepNavSelRange = "{3170, 0}";
+			sepNavVisRange = "{2653, 1824}";
+		};
+	};
+	34AEE27412636CE300AF359F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 34744EB111F7D3770011C917 /* GameView.h */;
+		name = "GameView.h: 4";
+		rLen = 119;
+		rLoc = 57;
+		rType = 0;
+		vrLen = 176;
+		vrLoc = 0;
+	};
+	34AEE2B9126370D100AF359F /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 34AEE28912636D5300AF359F /* Menu Level.lvl */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/matthew/Desktop/My Code Sources/Ball Physics Game/Menu Level.lvl";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	34B27FAB1274CF4100AAEF9C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 34FFECFD1262910E00E83112 /* Curve.h */;
+		name = "Curve.h: 24";
+		rLen = 0;
+		rLoc = 466;
+		rType = 0;
+		vrLen = 928;
+		vrLoc = 0;
+	};
+	34B27FAC1274CF4100AAEF9C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* AppDelegate.h */;
+		name = "AppDelegate.h: 14";
+		rLen = 8;
+		rLoc = 338;
+		rType = 0;
+		vrLen = 1250;
+		vrLoc = 0;
+	};
+	34B27FAD1274CF4100AAEF9C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* AppDelegate.m */;
+		name = "AppDelegate.m: 870";
+		rLen = 0;
+		rLoc = 33189;
+		rType = 0;
+		vrLen = 2092;
+		vrLoc = 13490;
+	};
+	34B27FAE1274CF4100AAEF9C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* AppDelegate.m */;
+		name = "AppDelegate.m: 100";
+		rLen = 374;
+		rLoc = 4059;
+		rType = 0;
+		vrLen = 1753;
+		vrLoc = 3023;
+	};
+	34B778A8121A186100161758 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 34B778A9121A186100161758 /* GameView.m */;
+		name = "GameView.m: 93";
+		rLen = 2907;
+		rLoc = 2687;
+		rType = 0;
+		vrLen = 1339;
+		vrLoc = 15836;
+	};
+	34B778A9121A186100161758 /* GameView.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = GameView.m;
+		path = "/Users/matthew/Desktop/My Code Sources/Avisaria Client/GameView.m";
+		sourceTree = "<absolute>";
+	};
+	34F5AFBF12652A2C0092E43E /* Curve.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1083, 675}}";
+			sepNavSelRange = "{466, 0}";
+			sepNavVisRange = "{0, 932}";
+		};
+	};
+	34F5AFC012652A2C0092E43E /* Curve.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 1729}}";
+			sepNavSelRange = "{247, 0}";
+			sepNavVisRange = "{0, 1390}";
+		};
+	};
+	34F5AFC112652A2C0092E43E /* Ball.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1083, 653}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 430}";
+		};
+	};
+	34F5B0481265314D0092E43E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 34AEE206126368B000AF359F /* MenuView.h */;
+		name = "MenuView.h: 37";
+		rLen = 0;
+		rLoc = 868;
+		rType = 0;
+		vrLen = 899;
+		vrLoc = 0;
+	};
+	34F5B04B1265314D0092E43E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 34F5AFC012652A2C0092E43E /* Curve.m */;
+		name = "Curve.m: 14";
+		rLen = 0;
+		rLoc = 247;
+		rType = 0;
+		vrLen = 1390;
+		vrLoc = 0;
+	};
+	34F5B04C1265314D0092E43E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 34F5AFC112652A2C0092E43E /* Ball.h */;
+		name = "Ball.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 430;
+		vrLoc = 0;
+	};
+	34F5B093126536950092E43E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 34744EB211F7D3770011C917 /* GameView.m */;
+		name = "GameView.m: 41";
+		rLen = 0;
+		rLoc = 1414;
+		rType = 0;
+		vrLen = 2877;
+		vrLoc = 46;
+	};
+	34F5B094126536950092E43E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 34AEE207126368B000AF359F /* MenuView.m */;
+		name = "MenuView.m: 191";
+		rLen = 0;
+		rLoc = 7081;
+		rType = 0;
+		vrLen = 11970;
+		vrLoc = 6564;
+	};
+	34F5B0EC1265D43C0092E43E /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 34F5B09C126538D10092E43E /* Level 1.lvl */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/matthew/Desktop/My Code Sources/Ball Physics Game/Level 1.lvl";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	34F5B0EE1265D43C0092E43E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 347C48F811F787890016C6F4 /* Menu.m */;
+		name = "Menu.m: 26";
+		rLen = 0;
+		rLoc = 908;
+		rType = 0;
+		vrLen = 1611;
+		vrLoc = 0;
+	};
+	34FFECFD1262910E00E83112 /* Curve.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = Curve.h;
+		path = "/Users/matthew/Desktop/My Code Sources/Ball Physics Game/Classes/Curve.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1083, 674}}";
+			sepNavSelRange = "{466, 0}";
+			sepNavVisRange = "{0, 928}";
+		};
+	};
+	34FFED191262914600E83112 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3498634A11FA7B2300552BE2 /* Sprite.h */;
+		name = "Sprite.h: 1";
+		rLen = 0;
+		rLoc = 33;
+		rType = 0;
+		vrLen = 267;
+		vrLoc = 0;
+	};
+	8D1107310486CEB800E47090 /* Ultimate_iPhone_Template-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 110}, {1120, 763}}";
+		};
+	};
+}

@@ -1,0 +1,10 @@
+/Users/matthew/Desktop/My Code Sources/OpenGl Physics/Classes/Circle.m:26: warning: property 'radius' requires method '-radius' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/matthew/Desktop/My Code Sources/OpenGl Physics/Classes/Circle.m:26: warning: property 'radius' requires the method 'setRadius:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/matthew/Desktop/My Code Sources/OpenGl Physics/Classes/Circle.m:26: warning: property 'colorR' requires method '-colorR' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/matthew/Desktop/My Code Sources/OpenGl Physics/Classes/Circle.m:26: warning: property 'colorR' requires the method 'setColorR:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/matthew/Desktop/My Code Sources/OpenGl Physics/Classes/Circle.m:26: warning: property 'colorG' requires method '-colorG' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/matthew/Desktop/My Code Sources/OpenGl Physics/Classes/Circle.m:26: warning: property 'colorG' requires the method 'setColorG:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/matthew/Desktop/My Code Sources/OpenGl Physics/Classes/Circle.m:26: warning: property 'colorB' requires method '-colorB' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/matthew/Desktop/My Code Sources/OpenGl Physics/Classes/Circle.m:26: warning: property 'colorB' requires the method 'setColorB:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/matthew/Desktop/My Code Sources/OpenGl Physics/Classes/Circle.m:26: warning: property 'colorA' requires method '-colorA' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/matthew/Desktop/My Code Sources/OpenGl Physics/Classes/Circle.m:26: warning: property 'colorA' requires the method 'setColorA:' to be defined - use @synthesize, @dynamic or provide a method implementation

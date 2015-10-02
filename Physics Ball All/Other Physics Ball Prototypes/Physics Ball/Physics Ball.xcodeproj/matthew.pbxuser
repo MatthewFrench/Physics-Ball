@@ -1,0 +1,187 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {634, 405}}";
+			sepNavSelRange = "{208, 0}";
+			sepNavVisRange = "{0, 502}";
+		};
+	};
+	1D3623250D0F684500981E51 /* AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1170}}";
+			sepNavSelRange = "{181, 0}";
+			sepNavVisRange = "{0, 663}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Physics Ball */ = {
+		activeExec = 0;
+		executables = (
+			34F8B8E612A6FA0E0044EA8F /* Physics Ball */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {634, 419}}";
+			sepNavSelRange = "{300, 108}";
+			sepNavVisRange = "{0, 416}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1272, 1599}}";
+			sepNavSelRange = "{2821, 0}";
+			sepNavVisRange = "{2574, 808}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 34F8B8E612A6FA0E0044EA8F /* Physics Ball */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Physics Ball */;
+		codeSenseManager = 34F8B8F112A6FA150044EA8F /* Code sense */;
+		executables = (
+			34F8B8E612A6FA0E0044EA8F /* Physics Ball */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					456,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 315188085;
+			PBXWorkspaceStateSaveDate = 315188085;
+		};
+		perUserProjectItems = {
+			3462EA8212B053EF00337B54 /* PBXTextBookmark */ = 3462EA8212B053EF00337B54 /* PBXTextBookmark */;
+			3465E4A312C966A100D6C094 /* PBXTextBookmark */ = 3465E4A312C966A100D6C094 /* PBXTextBookmark */;
+			3465E4A412C966A100D6C094 /* PBXTextBookmark */ = 3465E4A412C966A100D6C094 /* PBXTextBookmark */;
+			3465E4A512C966A100D6C094 /* PBXTextBookmark */ = 3465E4A512C966A100D6C094 /* PBXTextBookmark */;
+			346EA10412A84FE600D1F0E2 /* PlistBookmark */ = 346EA10412A84FE600D1F0E2 /* PlistBookmark */;
+			346EA10512A84FE600D1F0E2 /* PBXTextBookmark */ = 346EA10512A84FE600D1F0E2 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 34F8B8F012A6FA150044EA8F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	3462EA8212B053EF00337B54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* AppDelegate.h */;
+		name = "AppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 208;
+		rType = 0;
+		vrLen = 502;
+		vrLoc = 0;
+	};
+	3465E4A312C966A100D6C094 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* AppDelegate.m */;
+		name = "AppDelegate.m: 9";
+		rLen = 0;
+		rLoc = 181;
+		rType = 0;
+		vrLen = 663;
+		vrLoc = 0;
+	};
+	3465E4A412C966A100D6C094 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ViewController.m */;
+		name = "ViewController.m: 97";
+		rLen = 0;
+		rLoc = 2821;
+		rType = 0;
+		vrLen = 808;
+		vrLoc = 2574;
+	};
+	3465E4A512C966A100D6C094 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ViewController.m */;
+		name = "ViewController.m: 97";
+		rLen = 0;
+		rLoc = 2821;
+		rType = 0;
+		vrLen = 808;
+		vrLoc = 2574;
+	};
+	346EA10412A84FE600D1F0E2 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Physics_Ball-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UIStatusBarHidden,
+		);
+		name = "/Users/matthew/Desktop/My Code Sources/Physics Ball/Physics_Ball-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	346EA10512A84FE600D1F0E2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ViewController.h */;
+		name = "ViewController.h: 14";
+		rLen = 108;
+		rLoc = 300;
+		rType = 0;
+		vrLen = 416;
+		vrLoc = 0;
+	};
+	34F8B8E612A6FA0E0044EA8F /* Physics Ball */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Physics Ball";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	34F8B8F012A6FA150044EA8F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	34F8B8F112A6FA150044EA8F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

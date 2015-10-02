@@ -1,0 +1,327 @@
+TLevel Editor
+v7
+r0
+t303957050.997827
+cCheck dependencies
+cProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug/Level Editor.app/Contents/Info.plist" Level_Editor-Info.plist
+cCopyStringsFile "/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug/Level Editor.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/matthew/Desktop/My Code Sources/Level Editor/English.lproj/MainMenu.xib"
+cProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Level_Editor_Prefix-giutmzywmbphrbhfvqydsjauubkp/Level_Editor_Prefix.pch.gch Level_Editor_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Level Editor.build/Debug/Level Editor.build/Objects-normal/x86_64/main.o" "/Users/matthew/Desktop/My Code Sources/Level Editor/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Level Editor.build/Debug/Level Editor.build/Objects-normal/x86_64/AppDelegate.o" "/Users/matthew/Desktop/My Code Sources/Level Editor/AppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Level Editor.build/Debug/Level Editor.build/Objects-normal/x86_64/Curve.o" "/Users/matthew/Desktop/My Code Sources/Level Editor/Curve.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Level Editor.build/Debug/Level Editor.build/Objects-normal/x86_64/GameView.o" "/Users/matthew/Desktop/My Code Sources/Level Editor/GameView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004C65915100000000000000EE
+t1281724753
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004864A1C900000000000012EE
+t1214554569
+s4846
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C65916300000000000000EE
+t1281724771
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B90FBB700000000000013E6
+t1267792823
+s5094
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/matthew/Desktop/My Code Sources/Level Editor/AppDelegate.h
+c000000004C6C6D65000000000000055C
+t1282174309
+s1372
+i<Cocoa/Cocoa.h>
+i"GameView.h"
+i"Curve.h"
+
+N/Users/matthew/Desktop/My Code Sources/Level Editor/AppDelegate.m
+c000000004C6DCB96000000000000483B
+t1282263958
+s18491
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Level Editor/Curve.h
+c000000004C69F3A700000000000001EE
+t1282012071
+s494
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/Level Editor/Curve.m
+c000000004C6C6BCF00000000000008E1
+t1282173903
+s2273
+i"Curve.h"
+
+N/Users/matthew/Desktop/My Code Sources/Level Editor/English.lproj/InfoPlist.strings
+c000000004C69DA41000000000000002D
+t1282005569
+s45
+
+N/Users/matthew/Desktop/My Code Sources/Level Editor/English.lproj/MainMenu.xib
+c000000004C6C6A530000000000032B61
+t1282173523
+s207713
+
+N/Users/matthew/Desktop/My Code Sources/Level Editor/GameView.h
+c000000004C69DB0F00000000000000B0
+t1282005775
+s176
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/My Code Sources/Level Editor/GameView.m
+c000000004C69F10F0000000000000DE6
+t1282011407
+s3558
+i"GameView.h"
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Level Editor/Level_EditorAppDelegate.h
+c000000004C69DA41000000000000014C
+t1282005569
+s332
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/My Code Sources/Level Editor/Level_EditorAppDelegate.m
+c000000004C69DA410000000000000186
+t1282005569
+s390
+i"Level_EditorAppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Level Editor/Level_Editor_Prefix.pch
+c000000004C69DA41000000000000009B
+t1282005569
+s155
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug/Level Editor.app
+t1282264241
+s102
+
+N/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug/Level Editor.app/Contents/Info.plist
+t1282264241
+s901
+
+N/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug/Level Editor.app/Contents/MacOS/Level Editor
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug/Level Editor.app/Contents/PkgInfo
+t1282264241
+s8
+
+N/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug/Level Editor.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1282264242
+s92
+
+N/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug/Level Editor.app/Contents/Resources/English.lproj/MainMenu.nib
+t1282264243
+s39774
+
+N/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Objects-normal/x86_64/AppDelegate.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Objects-normal/x86_64/Curve.o
+t1282264250
+s23796
+
+N/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Objects-normal/x86_64/GameView.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Objects-normal/x86_64/Level Editor.LinkFileList
+c000000004C6DCCB10000000000000218
+t1282264241
+s536
+
+N/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Objects-normal/x86_64/Level_EditorAppDelegate.o
+t1282005582
+s21256
+
+N/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Objects-normal/x86_64/main.o
+t1282264250
+s5016
+
+N/Users/matthew/Desktop/My Code Sources/Level Editor/main.m
+c000000004C69DA410000000000000104
+t1282005569
+s260
+i<Cocoa/Cocoa.h>
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Level_Editor_Prefix-bmzzdkwjymrakrewsmmgwlbqgsij/Level_Editor_Prefix.pch.gch
+t1282005582
+s54265616
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Level_Editor_Prefix-giutmzywmbphrbhfvqydsjauubkp/Level_Editor_Prefix.pch.gch
+t1282264250
+s51179824
+
+NLevel_Editor-Info.plist
+c000000004C69DA4100000000000003EA
+t1282005569
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies303957041#303957041#0(0"0(0#1#0"8620274272#0"0#
+
+CCompileC "build/Level Editor.build/Debug/Level Editor.build/Objects-normal/x86_64/AppDelegate.o" "/Users/matthew/Desktop/My Code Sources/Level Editor/AppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303957050.453585
+e303957050.726410
+r0
+xCompileC
+xbuild/Level Editor.build/Debug/Level Editor.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/matthew/Desktop/My Code Sources/Level Editor/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/matthew/Desktop/My Code Sources/Level Editor/AppDelegate.m:9:
+o/Users/matthew/Desktop/My Code Sources/Level Editor/AppDelegate.h:13: error: cannot find protocol declaration for 'NSApplicationDelegate'
+lSLF07#2@73"Compile /Users/matthew/Desktop/My Code Sources/Level Editor/AppDelegate.m303957050#303957050#0(229"In file included from /Users/matthew/Desktop/My Code Sources/Level Editor/AppDelegate.m:9:/Users/matthew/Desktop/My Code Sources/Level Editor/AppDelegate.h:13: error: cannot find protocol declaration for 'NSApplicationDelegate'1(4@60"Cannot find protocol declaration for 'NSApplicationDelegate'303957050#91#138#2(7@87"In file included from /Users/matthew/Desktop/My Code Sources/Level Editor/AppDelegate.m303957050#18446744073709551615#0#0(6@65"/Users/matthew/Desktop/My Code Sources/Level Editor/AppDelegate.m303956758#9#0#9#0#0"0(13@129"Cannot find protocol declaration for 'NSApplicationDelegate' in /Users/matthew/Desktop/My Code Sources/Level Editor/AppDelegate.h303957050#18446744073709551615#0#0(6@65"/Users/matthew/Desktop/My Code Sources/Level Editor/AppDelegate.h303867109#13#0#13#0#0"0(6@65"/Users/matthew/Desktop/My Code Sources/Level Editor/AppDelegate.h303867109#13#0#13#0#0"0(0#0#65"/Users/matthew/Desktop/My Code Sources/Level Editor/AppDelegate.m8604764064#1729"    cd "/Users/matthew/Desktop/My Code Sources/Level Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Level Editor-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Level Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Level Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Level Editor-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug/include" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Level_Editor_Prefix-giutmzywmbphrbhfvqydsjauubkp/Level_Editor_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Level Editor/AppDelegate.m" -o "/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Objects-normal/x86_64/AppDelegate.o"1#
+
+CCompileC "build/Level Editor.build/Debug/Level Editor.build/Objects-normal/x86_64/Curve.o" "/Users/matthew/Desktop/My Code Sources/Level Editor/Curve.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303957050.723167
+e303957050.997722
+r1
+xCompileC
+xbuild/Level Editor.build/Debug/Level Editor.build/Objects-normal/x86_64/Curve.o
+x/Users/matthew/Desktop/My Code Sources/Level Editor/Curve.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/matthew/Desktop/My Code Sources/Level Editor/Curve.m303957050#303957050#0(0"0(0#0#59"/Users/matthew/Desktop/My Code Sources/Level Editor/Curve.m8601205984#1717"    cd "/Users/matthew/Desktop/My Code Sources/Level Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Level Editor-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Level Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Level Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Level Editor-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug/include" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Level_Editor_Prefix-giutmzywmbphrbhfvqydsjauubkp/Level_Editor_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Level Editor/Curve.m" -o "/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Objects-normal/x86_64/Curve.o"0#
+
+CCompileC "build/Level Editor.build/Debug/Level Editor.build/Objects-normal/x86_64/GameView.o" "/Users/matthew/Desktop/My Code Sources/Level Editor/GameView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303957050.726538
+e303957050.929516
+r0
+xCompileC
+xbuild/Level Editor.build/Debug/Level Editor.build/Objects-normal/x86_64/GameView.o
+x/Users/matthew/Desktop/My Code Sources/Level Editor/GameView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/matthew/Desktop/My Code Sources/Level Editor/GameView.m:2:
+o/Users/matthew/Desktop/My Code Sources/Level Editor/AppDelegate.h:13: error: cannot find protocol declaration for 'NSApplicationDelegate'
+lSLF07#2@70"Compile /Users/matthew/Desktop/My Code Sources/Level Editor/GameView.m303957050#303957050#0(226"In file included from /Users/matthew/Desktop/My Code Sources/Level Editor/GameView.m:2:/Users/matthew/Desktop/My Code Sources/Level Editor/AppDelegate.h:13: error: cannot find protocol declaration for 'NSApplicationDelegate'1(4@60"Cannot find protocol declaration for 'NSApplicationDelegate'303957050#88#138#2(7@84"In file included from /Users/matthew/Desktop/My Code Sources/Level Editor/GameView.m303957050#18446744073709551615#0#0(6@62"/Users/matthew/Desktop/My Code Sources/Level Editor/GameView.m303704207#2#0#2#0#0"0(13@129"Cannot find protocol declaration for 'NSApplicationDelegate' in /Users/matthew/Desktop/My Code Sources/Level Editor/AppDelegate.h303957050#18446744073709551615#0#0(6@65"/Users/matthew/Desktop/My Code Sources/Level Editor/AppDelegate.h303867109#13#0#13#0#0"0(6@65"/Users/matthew/Desktop/My Code Sources/Level Editor/AppDelegate.h303867109#13#0#13#0#0"0(0#0#62"/Users/matthew/Desktop/My Code Sources/Level Editor/GameView.m8621026112#1723"    cd "/Users/matthew/Desktop/My Code Sources/Level Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Level Editor-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Level Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Level Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Level Editor-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug/include" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Level_Editor_Prefix-giutmzywmbphrbhfvqydsjauubkp/Level_Editor_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Level Editor/GameView.m" -o "/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Objects-normal/x86_64/GameView.o"1#
+
+CCompileC "build/Level Editor.build/Debug/Level Editor.build/Objects-normal/x86_64/Level_EditorAppDelegate.o" "/Users/matthew/Desktop/My Code Sources/Level Editor/Level_EditorAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303698382.411289
+e303698382.761300
+r1
+xCompileC
+xbuild/Level Editor.build/Debug/Level Editor.build/Objects-normal/x86_64/Level_EditorAppDelegate.o
+x/Users/matthew/Desktop/My Code Sources/Level Editor/Level_EditorAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/matthew/Desktop/My Code Sources/Level Editor/Level_EditorAppDelegate.m303698382#303698382#0(0"0(0#0#77"/Users/matthew/Desktop/My Code Sources/Level Editor/Level_EditorAppDelegate.m8602438816#1753"    cd "/Users/matthew/Desktop/My Code Sources/Level Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Level Editor-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Level Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Level Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Level Editor-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug/include" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Level_Editor_Prefix-bmzzdkwjymrakrewsmmgwlbqgsij/Level_Editor_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Level Editor/Level_EditorAppDelegate.m" -o "/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Objects-normal/x86_64/Level_EditorAppDelegate.o"0#
+
+CCompileC "build/Level Editor.build/Debug/Level Editor.build/Objects-normal/x86_64/main.o" "/Users/matthew/Desktop/My Code Sources/Level Editor/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303957050.452041
+e303957050.722913
+r1
+xCompileC
+xbuild/Level Editor.build/Debug/Level Editor.build/Objects-normal/x86_64/main.o
+x/Users/matthew/Desktop/My Code Sources/Level Editor/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/matthew/Desktop/My Code Sources/Level Editor/main.m303957050#303957050#0(0"0(0#0#58"/Users/matthew/Desktop/My Code Sources/Level Editor/main.m8596383104#1715"    cd "/Users/matthew/Desktop/My Code Sources/Level Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Level Editor-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Level Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Level Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Level Editor-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug/include" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Level_Editor_Prefix-giutmzywmbphrbhfvqydsjauubkp/Level_Editor_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Level Editor/main.m" -o "/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB "/Users/matthew/Desktop/My Code Sources/Level Editor/English.lproj/MainMenu.xib"
+s303957041.940386
+e303957043.657491
+r1
+xCompileXIB
+x/Users/matthew/Desktop/My Code Sources/Level Editor/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib303957041#303957044#0(0"0(0#0#78"/Users/matthew/Desktop/My Code Sources/Level Editor/English.lproj/MainMenu.xib8618431968#414"    cd "/Users/matthew/Desktop/My Code Sources/Level Editor"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug/Level Editor.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/matthew/Desktop/My Code Sources/Level Editor/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.5.sdk0#
+
+CCopyStringsFile "/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug/Level Editor.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s303957041.859059
+e303957042.556431
+r1
+xCopyStringsFile
+x/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug/Level Editor.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings303957041#303957042#0(0"0(0#0#83"/Users/matthew/Desktop/My Code Sources/Level Editor/English.lproj/InfoPlist.strings8620167552#400"    cd "/Users/matthew/Desktop/My Code Sources/Level Editor"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug/Level Editor.app/Contents/Resources/English.lproj"0#
+
+CLd "/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug/Level Editor.app/Contents/MacOS/Level Editor" normal x86_64
+s303956759.255054
+e303956759.310204
+r1
+xLd
+x/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug/Level Editor.app/Contents/MacOS/Level Editor
+xnormal
+xx86_64
+lSLF07#2@113"Link /Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug/Level Editor.app/Contents/MacOS/Level Editor303956759#303956759#0(0"0(0#0#0"8620446400#642"    cd "/Users/matthew/Desktop/My Code Sources/Level Editor"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug" "-F/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug" -filelist "/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Objects-normal/x86_64/Level Editor.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug/Level Editor.app/Contents/MacOS/Level Editor"0#
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug/Level Editor.app/Contents/Info.plist" Level_Editor-Info.plist
+s303957041.838232
+e303957041.858930
+r1
+xProcessInfoPlistFile
+x/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug/Level Editor.app/Contents/Info.plist
+xLevel_Editor-Info.plist
+lSLF07#2@31"Process Level_Editor-Info.plist303957041#303957041#0(0"0(0#0#75"/Users/matthew/Desktop/My Code Sources/Level Editor/Level_Editor-Info.plist8618544384#370"    cd "/Users/matthew/Desktop/My Code Sources/Level Editor"    builtin-infoPlistUtility Level_Editor-Info.plist -genpkginfo "/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug/Level Editor.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug/Level Editor.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Level_Editor_Prefix-bmzzdkwjymrakrewsmmgwlbqgsij/Level_Editor_Prefix.pch.gch Level_Editor_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303698374.727350
+e303698382.409709
+r1
+xProcessPCH
+x/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Level_Editor_Prefix-bmzzdkwjymrakrewsmmgwlbqgsij/Level_Editor_Prefix.pch.gch
+xLevel_Editor_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile Level_Editor_Prefix.pch303698374#303698382#0(0"0(0#0#75"/Users/matthew/Desktop/My Code Sources/Level Editor/Level_Editor_Prefix.pch8592644128#1601"    cd "/Users/matthew/Desktop/My Code Sources/Level Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Level Editor-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Level Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Level Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Level Editor-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug/include" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/DerivedSources" -c "/Users/matthew/Desktop/My Code Sources/Level Editor/Level_Editor_Prefix.pch" -o /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Level_Editor_Prefix-bmzzdkwjymrakrewsmmgwlbqgsij/Level_Editor_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Level_Editor_Prefix-giutmzywmbphrbhfvqydsjauubkp/Level_Editor_Prefix.pch.gch Level_Editor_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303957043.657700
+e303957050.451847
+r1
+xProcessPCH
+x/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Level_Editor_Prefix-giutmzywmbphrbhfvqydsjauubkp/Level_Editor_Prefix.pch.gch
+xLevel_Editor_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile Level_Editor_Prefix.pch303957043#303957050#0(0"0(0#0#75"/Users/matthew/Desktop/My Code Sources/Level Editor/Level_Editor_Prefix.pch8620738496#1601"    cd "/Users/matthew/Desktop/My Code Sources/Level Editor"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Level Editor-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Level Editor-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Level Editor-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/Level Editor-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug/include" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/DerivedSources/x86_64" "-I/Users/matthew/Desktop/My Code Sources/Level Editor/build/Level Editor.build/Debug/Level Editor.build/DerivedSources" -c "/Users/matthew/Desktop/My Code Sources/Level Editor/Level_Editor_Prefix.pch" -o /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Level_Editor_Prefix-giutmzywmbphrbhfvqydsjauubkp/Level_Editor_Prefix.pch.gch0#
+
+CTouch "/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug/Level Editor.app"
+s303956759.310327
+e303956759.313835
+r1
+xTouch
+x/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug/Level Editor.app
+lSLF07#2@86"Touch /Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug/Level Editor.app303956759#303956759#0(0"0(0#0#0"8620316160#166"    cd "/Users/matthew/Desktop/My Code Sources/Level Editor"    /usr/bin/touch -c "/Users/matthew/Desktop/My Code Sources/Level Editor/build/Debug/Level Editor.app"0#
+

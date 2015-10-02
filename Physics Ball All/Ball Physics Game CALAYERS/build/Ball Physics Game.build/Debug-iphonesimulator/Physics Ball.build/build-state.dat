@@ -1,0 +1,1431 @@
+TPhysics Ball
+v7
+r0
+t315559994.338165
+cCheck dependencies
+cProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Info.plist" Ultimate_iPhone_Template-Info.plist
+cCompileXIB "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/MainWindow.xib"
+cCpResource "build/Debug-iphonesimulator/Physics Ball.app/Default.png" Default.png
+cCpResource "build/Debug-iphonesimulator/Physics Ball.app/Icon.png" Icon.png
+cCpResource "build/Debug-iphonesimulator/Physics Ball.app/reverse gravity.png" "reverse gravity.png"
+cCpResource "build/Debug-iphonesimulator/Physics Ball.app/Menu Level.lvl" "Menu Level.lvl"
+cCpResource "build/Debug-iphonesimulator/Physics Ball.app/Level 1.lvl" "Level 1.lvl"
+cCpResource "build/Debug-iphonesimulator/Physics Ball.app/Level 20.lvl" "Level 20.lvl"
+cCpResource "build/Debug-iphonesimulator/Physics Ball.app/Level 2.lvl" "Level 2.lvl"
+cCpResource "build/Debug-iphonesimulator/Physics Ball.app/Level 3.lvl" "Level 3.lvl"
+cCpResource "build/Debug-iphonesimulator/Physics Ball.app/Level 4.lvl" "Level 4.lvl"
+cCpResource "build/Debug-iphonesimulator/Physics Ball.app/Level 5.lvl" "Level 5.lvl"
+cCpResource "build/Debug-iphonesimulator/Physics Ball.app/Level 6.lvl" "Level 6.lvl"
+cCpResource "build/Debug-iphonesimulator/Physics Ball.app/Level 7.lvl" "Level 7.lvl"
+cCpResource "build/Debug-iphonesimulator/Physics Ball.app/Level 8.lvl" "Level 8.lvl"
+cCpResource "build/Debug-iphonesimulator/Physics Ball.app/Level 9.lvl" "Level 9.lvl"
+cCpResource "build/Debug-iphonesimulator/Physics Ball.app/Level 10.lvl" "Level 10.lvl"
+cCpResource "build/Debug-iphonesimulator/Physics Ball.app/Level 11.lvl" "Level 11.lvl"
+cCpResource "build/Debug-iphonesimulator/Physics Ball.app/Level 12.lvl" "Level 12.lvl"
+cCpResource "build/Debug-iphonesimulator/Physics Ball.app/Level 13.lvl" "Level 13.lvl"
+cProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-gevyfgbeqeqekaajogxrkctxnhpe/Ultimate_iPhone_Template_Prefix.pch.gch Ultimate_iPhone_Template_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/main.o" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/AppDelegate.o" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Menu.o" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Menu.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/GameView.o" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/GameView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Sprite.o" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Sprite.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/MenuView.o" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/MenuView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Curve.o" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Curve.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Ball.o" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Ball.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Text.o" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Text.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Physics Ball" normal i386
+cGenerateDSYMFile "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app.dSYM" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Physics Ball"
+cTouch "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004C5A4E570000000000019D60
+t1280986711
+s105824
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C5A505200000000000000C4
+t1280987218
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004C5A50EF0000000000154E50
+t1280987375
+s1396304
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004CC1230E0000000000019D40
+t1287725838
+s105792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Ballocity.lvl
+c000000004CB4FE7C0000000000001C11
+t1286930044
+s7185
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/AppDelegate.h
+c000000004CC49AB9000000000000085C
+t1287953081
+s2140
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+i"Menu.h"
+i"GameView.h"
+i"Sprite.h"
+i"Curve.h"
+i"MenuView.h"
+i"Ball.h"
+i"Text.h"
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/AppDelegate.m
+c000000004CC4B7740000000000007777
+t1287960436
+s30583
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Ball.h
+c000000004CBB9E7F000000000000024A
+t1287364223
+s586
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Ball.m
+c000000004CC4B1900000000000000BEE
+t1287958928
+s3054
+i"Ball.h"
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Curve.h
+c000000004CBB6C960000000000000432
+t1287351446
+s1074
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Curve.m
+c000000004CC4E80C000000000000204C
+t1287972876
+s8268
+i"Curve.h"
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/GameView.h
+c000000004C6981B800000000000000B0
+t1281982904
+s176
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/GameView.m
+c000000004CBE38E600000000000010C3
+t1287534822
+s4291
+i"GameView.h"
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Goal.h
+c000000004CBE347F00000000000000DB
+t1287533695
+s219
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Goal.m
+c000000004CBE347F00000000000000BF
+t1287533695
+s191
+i"Goal.h"
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Menu.h
+c000000004C47D43100000000000000B3
+t1279775793
+s179
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Menu.m
+c000000004CB4FDCB000000000000064B
+t1286929867
+s1611
+i"Menu.h"
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/MenuView.h
+c000000004CC10CB50000000000000146
+t1287720117
+s326
+i<Foundation/Foundation.h>
+i"Curve.h"
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/MenuView.m
+c000000004CC10CB50000000000000875
+t1287720117
+s2165
+i"MenuView.h"
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Sprite.h
+c000000004C698260000000000000010B
+t1281983072
+s267
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Sprite.m
+c000000004C4A6BC60000000000000224
+t1279945670
+s548
+i"Sprite.h"
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Text.h
+c000000004CBB79AD000000000000026B
+t1287354797
+s619
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Text.m
+c000000004CC1123500000000000006E5
+t1287721525
+s1765
+i"Text.h"
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Default.png
+c000000004C47D1F00000000000006334
+t1279775216
+s25396
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Icon.png
+c000000004C69A4040000000000001982
+t1281991684
+s6530
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 1 old.lvl
+c000000004CB5013200000000000008BF
+t1286930738
+s2239
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 1.lvl
+c000000004CC44ECD0000000000000946
+t1287933645
+s2374
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 10.lvl
+c000000004CC4A9CE0000000000000556
+t1287956942
+s1366
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 11.lvl
+c000000004CC4ACAC0000000000000C89
+t1287957676
+s3209
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 12.lvl
+c000000004CC4E8C900000000000018A3
+t1287973065
+s6307
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 13.lvl
+c000000004CC4EB52000000000000D35A
+t1287973714
+s54106
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 2.lvl
+c000000004CC4927F0000000000000AD7
+t1287950975
+s2775
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 20.lvl
+c000000004CB4FE7C0000000000001C11
+t1286930044
+s7185
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 3.lvl
+c000000004CC49DE800000000000005D8
+t1287953896
+s1496
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 4.lvl
+c000000004CC49F8B00000000000005A0
+t1287954315
+s1440
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 5.lvl
+c000000004CC4A1820000000000000A88
+t1287954818
+s2696
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 6.lvl
+c000000004CC4A20D00000000000003F6
+t1287954957
+s1014
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 7.lvl
+c000000004CC4A3A30000000000000689
+t1287955363
+s1673
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 8.lvl
+c000000004CC4A58600000000000004D3
+t1287955846
+s1235
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 9.lvl
+c000000004CC4A76300000000000004DB
+t1287956323
+s1243
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/MainWindow.xib
+c000000004CC4B0E10000000000016D0F
+t1287958753
+s93455
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Menu Level.lvl
+c000000004CB33764000000000000048C
+t1286813540
+s1164
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Ultimate_iPhone_Template_Prefix.pch
+c000000004C474ECC00000000000000D9
+t1279741644
+s217
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/AppDelegate.o
+t1293515197
+s147580
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Ball.o
+t1293515197
+s23016
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Curve.o
+t1293515197
+s46820
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/GameView.o
+t1293515196
+s53412
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Goal.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Menu.o
+t1293515196
+s40468
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/MenuView.o
+t1293515197
+s39212
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Physics Ball.LinkFileList
+c000000004D1979BA00000000000005D6
+t1293515194
+s1494
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Sprite.o
+t1293515197
+s11124
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Text.o
+t1293515197
+s17776
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/main.o
+t1293515196
+s6356
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app
+t1293515197
+s850
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app.dSYM
+t1293515197
+s102
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Ballocity.lvl
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Default.png
+t1293515194
+s25396
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Icon.png
+t1293515194
+s6530
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Info.plist
+t1293515194
+s763
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Level 1 old.lvl
+t1287534194
+s2239
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Level 1.lvl
+t1293515194
+s2374
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Level 10.lvl
+t1293515194
+s1366
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Level 11.lvl
+t1293515194
+s3209
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Level 12.lvl
+t1293515194
+s6307
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Level 13.lvl
+t1293515194
+s54106
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Level 2.lvl
+t1293515194
+s2775
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Level 20.lvl
+t1293515194
+s7185
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Level 3.lvl
+t1293515194
+s1496
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Level 4.lvl
+t1293515194
+s1440
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Level 5.lvl
+t1293515194
+s2696
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Level 6.lvl
+t1293515194
+s1014
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Level 7.lvl
+t1293515194
+s1673
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Level 8.lvl
+t1293515194
+s1235
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Level 9.lvl
+t1293515194
+s1243
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/MainWindow.nib
+t1293515195
+s15381
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Menu Level.lvl
+t1293515194
+s1164
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Physics Ball
+t1293515197
+s113252
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/PkgInfo
+t1293515194
+s8
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/reverse gravity.png
+t1293515194
+s3254
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/main.m
+c000000004C474ECC000000000000017C
+t1279741644
+s380
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/reverse gravity.png
+c000000004C75BEB20000000000000CB6
+t1282784946
+s3254
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/AppDelegate.h
+c000000004CC49AB9000000000000085C
+t1287953081
+s2140
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+i"Menu.h"
+i"GameView.h"
+i"Sprite.h"
+i"Curve.h"
+i"MenuView.h"
+i"Ball.h"
+i"Text.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/AppDelegate.m
+c000000004CC4B7740000000000007777
+t1287960436
+s30583
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Ball.h
+c000000004CBB9E7F000000000000024A
+t1287364223
+s586
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Ball.m
+c000000004CC4B1900000000000000BEE
+t1287958928
+s3054
+i"Ball.h"
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Curve.h
+c000000004CBB6C960000000000000432
+t1287351446
+s1074
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Curve.m
+c000000004CC4E80C000000000000204C
+t1287972876
+s8268
+i"Curve.h"
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/GameView.h
+c000000004C6981B800000000000000B0
+t1281982904
+s176
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/GameView.m
+c000000004CBE38E600000000000010C3
+t1287534822
+s4291
+i"GameView.h"
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Menu.h
+c000000004C47D43100000000000000B3
+t1279775793
+s179
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Menu.m
+c000000004CB4FDCB000000000000064B
+t1286929867
+s1611
+i"Menu.h"
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/MenuView.h
+c000000004CC10CB50000000000000146
+t1287720117
+s326
+i<Foundation/Foundation.h>
+i"Curve.h"
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/MenuView.m
+c000000004CC10CB50000000000000875
+t1287720117
+s2165
+i"MenuView.h"
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Sprite.h
+c000000004C698260000000000000010B
+t1281983072
+s267
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Sprite.m
+c000000004C4A6BC60000000000000224
+t1279945670
+s548
+i"Sprite.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Text.h
+c000000004CBB79AD000000000000026B
+t1287354797
+s619
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Text.m
+c000000004CC1123500000000000006E5
+t1287721525
+s1765
+i"Text.h"
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Default.png
+c000000004C47D1F00000000000006334
+t1279775216
+s25396
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Icon.png
+c000000004C69A4040000000000001982
+t1281991684
+s6530
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Level 1.lvl
+c000000004CC44ECD0000000000000946
+t1287933645
+s2374
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Level 10.lvl
+c000000004CC4A9CE0000000000000556
+t1287956942
+s1366
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Level 11.lvl
+c000000004CC4ACAC0000000000000C89
+t1287957676
+s3209
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Level 12.lvl
+c000000004CC4E8C900000000000018A3
+t1287973065
+s6307
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Level 13.lvl
+c000000004CC4EB52000000000000D35A
+t1287973714
+s54106
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Level 2.lvl
+c000000004CC4927F0000000000000AD7
+t1287950975
+s2775
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Level 20.lvl
+c000000004CB4FE7C0000000000001C11
+t1286930044
+s7185
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Level 3.lvl
+c000000004CC49DE800000000000005D8
+t1287953896
+s1496
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Level 4.lvl
+c000000004CC49F8B00000000000005A0
+t1287954315
+s1440
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Level 5.lvl
+c000000004CC4A1820000000000000A88
+t1287954818
+s2696
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Level 6.lvl
+c000000004CC4A20D00000000000003F6
+t1287954957
+s1014
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Level 7.lvl
+c000000004CC4A3A30000000000000689
+t1287955363
+s1673
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Level 8.lvl
+c000000004CC4A58600000000000004D3
+t1287955846
+s1235
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Level 9.lvl
+c000000004CC4A76300000000000004DB
+t1287956323
+s1243
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/MainWindow.xib
+c000000004CC4B0E10000000000016D0F
+t1287958753
+s93455
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Menu Level.lvl
+c000000004CB33764000000000000048C
+t1286813540
+s1164
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Ultimate_iPhone_Template_Prefix.pch
+c000000004C474ECC00000000000000D9
+t1279741644
+s217
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/AppDelegate.o
+t1293410399
+s144524
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Ball.o
+t1293410399
+s23040
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Curve.o
+t1293410399
+s46852
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/GameView.o
+t1293410399
+s50452
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Menu.o
+t1293410398
+s37444
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/MenuView.o
+t1293410399
+s36188
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Physics Ball.LinkFileList
+c000000004D17E05D000000000000064B
+t1293410397
+s1611
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Sprite.o
+t1293410399
+s11148
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Text.o
+t1293410399
+s17800
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/main.o
+t1293410398
+s6384
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app
+t1293410399
+s850
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app.dSYM
+t1293410399
+s102
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Default.png
+t1287352028
+s25396
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Icon.png
+t1287352028
+s6530
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Info.plist
+t1287352028
+s763
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Level 1.lvl
+t1287948495
+s2374
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Level 10.lvl
+t1288909436
+s1366
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Level 11.lvl
+t1288909436
+s3209
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Level 12.lvl
+t1288909436
+s6307
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Level 13.lvl
+t1288909436
+s54106
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Level 2.lvl
+t1288909436
+s2775
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Level 20.lvl
+t1287948495
+s7185
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Level 3.lvl
+t1288909436
+s1496
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Level 4.lvl
+t1288909436
+s1440
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Level 5.lvl
+t1288909436
+s2696
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Level 6.lvl
+t1288909436
+s1014
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Level 7.lvl
+t1288909436
+s1673
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Level 8.lvl
+t1288909436
+s1235
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Level 9.lvl
+t1288909436
+s1243
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/MainWindow.nib
+t1288909438
+s15329
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Menu Level.lvl
+t1287352028
+s1164
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Physics Ball
+t1293410399
+s113480
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/PkgInfo
+t1287352028
+s8
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/reverse gravity.png
+t1287352028
+s3254
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/main.m
+c000000004C474ECC000000000000017C
+t1279741644
+s380
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/reverse gravity.png
+c000000004C75BEB20000000000000CB6
+t1282784946
+s3254
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-dkrdtztsrdtbyzfxaophzzyxavpu/Ultimate_iPhone_Template_Prefix.pch.gch
+t1293410398
+s15240208
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-fvjrowvgjqhvjhazyliewiurfeae/Ultimate_iPhone_Template_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-gevyfgbeqeqekaajogxrkctxnhpe/Ultimate_iPhone_Template_Prefix.pch.gch
+t1293515196
+s15477968
+
+NUltimate_iPhone_Template-Info.plist
+c000000004C698DBD0000000000000463
+t1281985981
+s1123
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315559993#315559994#0(0"0(0#1#0"8634726912#0"0#
+
+CCompileC "build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/AppDelegate.o" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315207996.572511
+e315207997.189206
+r1
+xCompileC
+xbuild/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/AppDelegate.o
+x/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/AppDelegate.m315207996#315207997#0(0"0(0#0#87"/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/AppDelegate.m8626135104#2414"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-gevyfgbeqeqekaajogxrkctxnhpe/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/AppDelegate.m" -o "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/AppDelegate.o"0#
+
+CCompileC "build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/AppDelegate.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315103198.712003
+e315103199.284450
+r1
+xCompileC
+xbuild/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/AppDelegate.o
+x/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/AppDelegate.m315103198#315103199#0(0"0(0#0#100"/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/AppDelegate.m8607566176#2557"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-dkrdtztsrdtbyzfxaophzzyxavpu/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/AppDelegate.m" -o "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/AppDelegate.o"0#
+
+CCompileC "build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Ball.o" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Ball.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315207997.228439
+e315207997.395431
+r1
+xCompileC
+xbuild/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Ball.o
+x/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Ball.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Ball.m315207997#315207997#0(0"0(0#0#80"/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Ball.m8615411648#2400"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-gevyfgbeqeqekaajogxrkctxnhpe/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Ball.m" -o "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Ball.o"0#
+
+CCompileC "build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Ball.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Ball.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315103199.286419
+e315103199.433173
+r1
+xCompileC
+xbuild/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Ball.o
+x/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Ball.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Ball.m315103199#315103199#0(0"0(0#0#93"/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Ball.m8604199648#2543"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-dkrdtztsrdtbyzfxaophzzyxavpu/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Ball.m" -o "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Ball.o"0#
+
+CCompileC "build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Curve.o" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Curve.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315207997.189348
+e315207997.455890
+r1
+xCompileC
+xbuild/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Curve.o
+x/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Curve.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Curve.m315207997#315207997#0(0"0(0#0#81"/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Curve.m8625664512#2402"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-gevyfgbeqeqekaajogxrkctxnhpe/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Curve.m" -o "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Curve.o"0#
+
+CCompileC "build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Curve.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Curve.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315103199.284706
+e315103199.537609
+r1
+xCompileC
+xbuild/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Curve.o
+x/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Curve.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Curve.m315103199#315103199#0(0"0(0#0#94"/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Curve.m8607228096#2545"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-dkrdtztsrdtbyzfxaophzzyxavpu/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Curve.m" -o "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Curve.o"0#
+
+CCompileC "build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/GameView.o" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/GameView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315207996.840999
+e315207996.983455
+r1
+xCompileC
+xbuild/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/GameView.o
+x/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/GameView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/GameView.m315207996#315207997#0(0"0(0#0#84"/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/GameView.m8626516768#2408"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-gevyfgbeqeqekaajogxrkctxnhpe/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/GameView.m" -o "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/GameView.o"0#
+
+CCompileC "build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/GameView.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/GameView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315103198.917478
+e315103199.071235
+r1
+xCompileC
+xbuild/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/GameView.o
+x/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/GameView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/GameView.m315103198#315103199#0(0"0(0#0#97"/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/GameView.m8607208928#2551"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-dkrdtztsrdtbyzfxaophzzyxavpu/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/GameView.m" -o "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/GameView.o"0#
+
+CCompileC "build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Goal.o" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Goal.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Menu.o" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Menu.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315207996.712624
+e315207996.840702
+r1
+xCompileC
+xbuild/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Menu.o
+x/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Menu.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Menu.m315207996#315207996#0(0"0(0#0#80"/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Menu.m8615336160#2400"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-gevyfgbeqeqekaajogxrkctxnhpe/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Menu.m" -o "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Menu.o"0#
+
+CCompileC "build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Menu.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Menu.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315103198.793238
+e315103198.917341
+r1
+xCompileC
+xbuild/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Menu.o
+x/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Menu.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Menu.m315103198#315103198#0(0"0(0#0#93"/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Menu.m8606055616#2543"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-dkrdtztsrdtbyzfxaophzzyxavpu/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Menu.m" -o "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Menu.o"0#
+
+CCompileC "build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/MenuView.o" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/MenuView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315207997.090865
+e315207997.228298
+r1
+xCompileC
+xbuild/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/MenuView.o
+x/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/MenuView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/MenuView.m315207997#315207997#0(0"0(0#0#84"/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/MenuView.m8627009184#2408"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-gevyfgbeqeqekaajogxrkctxnhpe/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/MenuView.m" -o "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/MenuView.o"0#
+
+CCompileC "build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/MenuView.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/MenuView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315103199.151849
+e315103199.286235
+r1
+xCompileC
+xbuild/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/MenuView.o
+x/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/MenuView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/MenuView.m315103199#315103199#0(0"0(0#0#97"/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/MenuView.m8603507232#2551"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-dkrdtztsrdtbyzfxaophzzyxavpu/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/MenuView.m" -o "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/MenuView.o"0#
+
+CCompileC "build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Sprite.o" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Sprite.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315207996.983582
+e315207997.090735
+r1
+xCompileC
+xbuild/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Sprite.o
+x/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Sprite.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Sprite.m315207996#315207997#0(0"0(0#0#82"/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Sprite.m8625659552#2404"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-gevyfgbeqeqekaajogxrkctxnhpe/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Sprite.m" -o "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Sprite.o"0#
+
+CCompileC "build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Sprite.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Sprite.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315103199.071366
+e315103199.151709
+r1
+xCompileC
+xbuild/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Sprite.o
+x/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Sprite.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Sprite.m315103199#315103199#0(0"0(0#0#95"/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Sprite.m8607338848#2547"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-dkrdtztsrdtbyzfxaophzzyxavpu/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Sprite.m" -o "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Sprite.o"0#
+
+CCompileC "build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Text.o" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Text.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315207997.395579
+e315207997.514002
+r1
+xCompileC
+xbuild/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Text.o
+x/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Text.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Text.m315207997#315207997#0(0"0(0#0#80"/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Text.m8626105216#2400"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-gevyfgbeqeqekaajogxrkctxnhpe/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Text.m" -o "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Text.o"0#
+
+CCompileC "build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Text.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Text.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315103199.433305
+e315103199.580623
+r1
+xCompileC
+xbuild/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Text.o
+x/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Text.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Text.m315103199#315103199#0(0"0(0#0#93"/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Text.m8607497856#2543"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-dkrdtztsrdtbyzfxaophzzyxavpu/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Classes/Text.m" -o "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Text.o"0#
+
+CCompileC "build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/main.o" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315207996.571104
+e315207996.712465
+r1
+xCompileC
+xbuild/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/main.o
+x/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/main.m315207996#315207996#0(0"0(0#0#72"/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/main.m8629214240#2392"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-gevyfgbeqeqekaajogxrkctxnhpe/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/main.m" -o "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/main.o"0#
+
+CCompileC "build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/main.o" "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315103198.710598
+e315103198.793102
+r1
+xCompileC
+xbuild/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/main.o
+x/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/main.m315103198#315103198#0(0"0(0#0#85"/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/main.m8606896448#2535"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-dkrdtztsrdtbyzfxaophzzyxavpu/Ultimate_iPhone_Template_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/main.m" -o "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/MainWindow.xib"
+s315207994.306763
+e315207995.489630
+r1
+xCompileXIB
+x/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib315207994#315207995#0(0"0(0#0#80"/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/MainWindow.xib8624060800#662"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/MainWindow.nib" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/MainWindow.xib"
+r0
+
+CCpResource "build/Debug-iphonesimulator/Physics Ball.app/Ballocity.lvl" Ballocity.lvl
+r0
+
+CCpResource "build/Debug-iphonesimulator/Physics Ball.app/Default.png" Default.png
+s315207994.307888
+e315207994.382488
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Physics Ball.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png315207994#315207994#0(0"0(0#0#77"/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Default.png8622423360#561"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Default.png" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Physics Ball.app/Icon.png" Icon.png
+s315207994.314747
+e315207994.382673
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Physics Ball.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png315207994#315207994#0(0"0(0#0#74"/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Icon.png8627539232#558"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Icon.png" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Physics Ball.app/Level 1 old.lvl" "Level 1 old.lvl"
+s309226993.985905
+e309226994.028881
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Physics Ball.app/Level 1 old.lvl
+xLevel 1 old.lvl
+lSLF07#2@20"Copy Level 1 old.lvl309226993#309226994#0(0"0(0#0#81"/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 1 old.lvl8617884512#551"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 1 old.lvl" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Physics Ball.app/Level 1.lvl" "Level 1.lvl"
+s315207994.351571
+e315207994.383148
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Physics Ball.app/Level 1.lvl
+xLevel 1.lvl
+lSLF07#2@16"Copy Level 1.lvl315207994#315207994#0(0"0(0#0#77"/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 1.lvl8629400128#561"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 1.lvl" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Physics Ball.app/Level 10.lvl" "Level 10.lvl"
+s315207994.424250
+e315207994.452970
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Physics Ball.app/Level 10.lvl
+xLevel 10.lvl
+lSLF07#2@17"Copy Level 10.lvl315207994#315207994#0(0"0(0#0#78"/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 10.lvl8621509952#562"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 10.lvl" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Physics Ball.app/Level 11.lvl" "Level 11.lvl"
+s315207994.433431
+e315207994.453130
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Physics Ball.app/Level 11.lvl
+xLevel 11.lvl
+lSLF07#2@17"Copy Level 11.lvl315207994#315207994#0(0"0(0#0#78"/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 11.lvl8626101280#562"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 11.lvl" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Physics Ball.app/Level 12.lvl" "Level 12.lvl"
+s315207994.439775
+e315207994.453358
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Physics Ball.app/Level 12.lvl
+xLevel 12.lvl
+lSLF07#2@17"Copy Level 12.lvl315207994#315207994#0(0"0(0#0#78"/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 12.lvl8623396096#562"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 12.lvl" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Physics Ball.app/Level 13.lvl" "Level 13.lvl"
+s315207994.444587
+e315207994.463063
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Physics Ball.app/Level 13.lvl
+xLevel 13.lvl
+lSLF07#2@17"Copy Level 13.lvl315207994#315207994#0(0"0(0#0#78"/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 13.lvl8627018208#562"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 13.lvl" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Physics Ball.app/Level 2.lvl" "Level 2.lvl"
+s315207994.363917
+e315207994.383585
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Physics Ball.app/Level 2.lvl
+xLevel 2.lvl
+lSLF07#2@16"Copy Level 2.lvl315207994#315207994#0(0"0(0#0#77"/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 2.lvl8628633344#561"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 2.lvl" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Physics Ball.app/Level 20.lvl" "Level 20.lvl"
+s315207994.361781
+e315207994.383307
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Physics Ball.app/Level 20.lvl
+xLevel 20.lvl
+lSLF07#2@17"Copy Level 20.lvl315207994#315207994#0(0"0(0#0#78"/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 20.lvl8628999904#562"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 20.lvl" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Physics Ball.app/Level 3.lvl" "Level 3.lvl"
+s315207994.366701
+e315207994.439514
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Physics Ball.app/Level 3.lvl
+xLevel 3.lvl
+lSLF07#2@16"Copy Level 3.lvl315207994#315207994#0(0"0(0#0#77"/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 3.lvl8627983040#561"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 3.lvl" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Physics Ball.app/Level 4.lvl" "Level 4.lvl"
+s315207994.375047
+e315207994.439668
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Physics Ball.app/Level 4.lvl
+xLevel 4.lvl
+lSLF07#2@16"Copy Level 4.lvl315207994#315207994#0(0"0(0#0#77"/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 4.lvl8627636128#561"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 4.lvl" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Physics Ball.app/Level 5.lvl" "Level 5.lvl"
+s315207994.387653
+e315207994.438866
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Physics Ball.app/Level 5.lvl
+xLevel 5.lvl
+lSLF07#2@16"Copy Level 5.lvl315207994#315207994#0(0"0(0#0#77"/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 5.lvl8627291744#561"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 5.lvl" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Physics Ball.app/Level 6.lvl" "Level 6.lvl"
+s315207994.394583
+e315207994.439044
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Physics Ball.app/Level 6.lvl
+xLevel 6.lvl
+lSLF07#2@16"Copy Level 6.lvl315207994#315207994#0(0"0(0#0#77"/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 6.lvl8626525184#561"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 6.lvl" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Physics Ball.app/Level 7.lvl" "Level 7.lvl"
+s315207994.398641
+e315207994.439201
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Physics Ball.app/Level 7.lvl
+xLevel 7.lvl
+lSLF07#2@16"Copy Level 7.lvl315207994#315207994#0(0"0(0#0#77"/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 7.lvl8625520192#561"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 7.lvl" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Physics Ball.app/Level 8.lvl" "Level 8.lvl"
+s315207994.411325
+e315207994.439360
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Physics Ball.app/Level 8.lvl
+xLevel 8.lvl
+lSLF07#2@16"Copy Level 8.lvl315207994#315207994#0(0"0(0#0#77"/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 8.lvl8622367136#561"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 8.lvl" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Physics Ball.app/Level 9.lvl" "Level 9.lvl"
+s315207994.418913
+e315207994.452786
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Physics Ball.app/Level 9.lvl
+xLevel 9.lvl
+lSLF07#2@16"Copy Level 9.lvl315207994#315207994#0(0"0(0#0#77"/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 9.lvl8627307008#561"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 9.lvl" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Physics Ball.app/Menu Level.lvl" "Menu Level.lvl"
+s315207994.334961
+e315207994.382993
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Physics Ball.app/Menu Level.lvl
+xMenu Level.lvl
+lSLF07#2@19"Copy Menu Level.lvl315207994#315207994#0(0"0(0#0#80"/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Menu Level.lvl8626852800#564"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Menu Level.lvl" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Physics Ball.app/reverse gravity.png" "reverse gravity.png"
+s315207994.327448
+e315207994.382837
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Physics Ball.app/reverse gravity.png
+xreverse gravity.png
+lSLF07#2@24"Copy reverse gravity.png315207994#315207994#0(0"0(0#0#85"/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/reverse gravity.png8627035200#569"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/reverse gravity.png" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app"0#
+
+CGenerateDSYMFile "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app.dSYM" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Physics Ball"
+s315207997.568120
+e315207997.600659
+r1
+xGenerateDSYMFile
+x/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app.dSYM
+x/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Physics Ball
+lSLF07#2@128"GenerateDSYMFile "build/Debug-iphonesimulator/Physics Ball.app.dSYM" "build/Debug-iphonesimulator/Physics Ball.app/Physics Ball"315207997#315207997#0(0"0(0#0#123"/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Physics Ball8626518976#485"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Physics Ball" -o "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app.dSYM" "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Physics Ball"
+s315103199.638604
+e315103199.688506
+r1
+xGenerateDSYMFile
+x/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app.dSYM
+x/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Physics Ball
+lSLF07#2@128"GenerateDSYMFile "build/Debug-iphonesimulator/Physics Ball.app.dSYM" "build/Debug-iphonesimulator/Physics Ball.app/Physics Ball"315103199#315103199#0(0"0(0#0#136"/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Physics Ball8607612384#524"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Physics Ball" -o "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app.dSYM"0#
+
+CLd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Physics Ball" normal i386
+s315207997.514128
+e315207997.567965
+r1
+xLd
+x/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Physics Ball
+xnormal
+xi386
+lSLF07#2@128"Link /Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Physics Ball315207997#315207997#0(0"0(0#0#0"8625146624#1117"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator" "-F/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator" -filelist "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Physics Ball.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -framework OpenGLES -o "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Physics Ball"0#
+
+CLd "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Physics Ball" normal i386
+s315103199.580753
+e315103199.638451
+r1
+xLd
+x/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Physics Ball
+xnormal
+xi386
+lSLF07#2@141"Link /Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Physics Ball315103199#315103199#0(0"0(0#0#0"8608205088#1182"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk "-L/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator" "-F/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator" -filelist "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Objects-normal/i386/Physics Ball.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -framework OpenGLES -o "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Physics Ball"0#
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Info.plist" Ultimate_iPhone_Template-Info.plist
+s315207994.294223
+e315207994.306641
+r1
+xProcessInfoPlistFile
+x/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Info.plist
+xUltimate_iPhone_Template-Info.plist
+lSLF07#2@43"Process Ultimate_iPhone_Template-Info.plist315207994#315207994#0(0"0(0#0#101"/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Ultimate_iPhone_Template-Info.plist8629169504#593"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Ultimate_iPhone_Template-Info.plist -genpkginfo "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Info.plist"0#
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app/Info.plist" Ultimate_iPhone_Template-Info.plist
+r0
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-dkrdtztsrdtbyzfxaophzzyxavpu/Ultimate_iPhone_Template_Prefix.pch.gch Ultimate_iPhone_Template_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s315103197.731851
+e315103198.710447
+r1
+xProcessPCH
+x/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-dkrdtztsrdtbyzfxaophzzyxavpu/Ultimate_iPhone_Template_Prefix.pch.gch
+xUltimate_iPhone_Template_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Precompile Ultimate_iPhone_Template_Prefix.pch315103197#315103198#0(0"0(0#0#114"/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Ultimate_iPhone_Template_Prefix.pch8027754749290181632#2387"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources" -c "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/Ultimate_iPhone_Template_Prefix.pch" -o /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-dkrdtztsrdtbyzfxaophzzyxavpu/Ultimate_iPhone_Template_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-fvjrowvgjqhvjhazyliewiurfeae/Ultimate_iPhone_Template_Prefix.pch.gch Ultimate_iPhone_Template_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s312932469.824454
+e312932472.943426
+r1
+xProcessPCH
+x/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-fvjrowvgjqhvjhazyliewiurfeae/Ultimate_iPhone_Template_Prefix.pch.gch
+xUltimate_iPhone_Template_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Precompile Ultimate_iPhone_Template_Prefix.pch312932469#312932472#0(0"0(0#0#101"/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Ultimate_iPhone_Template_Prefix.pch8027754749290181632#2257"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources" -c "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Ultimate_iPhone_Template_Prefix.pch" -o /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-fvjrowvgjqhvjhazyliewiurfeae/Ultimate_iPhone_Template_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-gevyfgbeqeqekaajogxrkctxnhpe/Ultimate_iPhone_Template_Prefix.pch.gch Ultimate_iPhone_Template_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s315207995.489784
+e315207996.570852
+r1
+xProcessPCH
+x/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-gevyfgbeqeqekaajogxrkctxnhpe/Ultimate_iPhone_Template_Prefix.pch.gch
+xUltimate_iPhone_Template_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Precompile Ultimate_iPhone_Template_Prefix.pch315207995#315207996#0(0"0(0#0#101"/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Ultimate_iPhone_Template_Prefix.pch8628292256#2257"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/Physics Ball-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/include" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Debug-iphonesimulator/Physics Ball.build/DerivedSources" -c "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Ultimate_iPhone_Template_Prefix.pch" -o /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-gevyfgbeqeqekaajogxrkctxnhpe/Ultimate_iPhone_Template_Prefix.pch.gch0#
+
+CTouch "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app"
+s315207997.600776
+e315207997.606314
+r1
+xTouch
+x/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app
+lSLF07#2@116"Touch /Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app315207997#315207997#0(0"0(0#0#0"8626111456#341"    cd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app"0#
+
+CTouch "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app"
+s315103199.688621
+e315103199.693112
+r1
+xTouch
+x/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app
+lSLF07#2@129"Touch /Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app315103199#315103199#0(0"0(0#0#0"8607070656#367"    cd "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/matthew/Desktop/My Code Sources/Old Projects/Ball Physics Game CALAYERS/build/Debug-iphonesimulator/Physics Ball.app"0#
+

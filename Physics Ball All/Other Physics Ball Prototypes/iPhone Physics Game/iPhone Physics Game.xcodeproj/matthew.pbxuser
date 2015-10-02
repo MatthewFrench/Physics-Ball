@@ -1,0 +1,278 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 443}}";
+			sepNavSelRange = "{232, 0}";
+			sepNavVisRange = "{0, 477}";
+		};
+	};
+	1D3623250D0F684500981E51 /* AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{464, 236}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 2704}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 962}}";
+			sepNavSelRange = "{205, 0}";
+			sepNavVisRange = "{0, 1396}";
+			sepNavWindowFrame = "{{15, 110}, {1120, 763}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* iPhone Physics Game */ = {
+		activeExec = 0;
+		executables = (
+			341E0DDC12189BB400740CC7 /* iPhone Physics Game */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 443}}";
+			sepNavSelRange = "{211, 0}";
+			sepNavVisRange = "{0, 257}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 884}}";
+			sepNavSelRange = "{184, 0}";
+			sepNavVisRange = "{0, 828}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 341E0DDC12189BB400740CC7 /* iPhone Physics Game */;
+		activeSDKPreference = iphoneos4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* iPhone Physics Game */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* iPhone Physics Game */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 341E0DE712189BC100740CC7 /* Code sense */;
+		executables = (
+			341E0DDC12189BB400740CC7 /* iPhone Physics Game */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					577,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 304455602;
+			PBXWorkspaceStateSaveDate = 304455602;
+		};
+		perUserProjectItems = {
+			341E0E571218C50800740CC7 /* PBXTextBookmark */ = 341E0E571218C50800740CC7 /* PBXTextBookmark */;
+			341E0E581218C50800740CC7 /* PBXTextBookmark */ = 341E0E581218C50800740CC7 /* PBXTextBookmark */;
+			341E0E591218C50800740CC7 /* PBXTextBookmark */ = 341E0E591218C50800740CC7 /* PBXTextBookmark */;
+			341E0E5C1218C50800740CC7 /* PBXTextBookmark */ = 341E0E5C1218C50800740CC7 /* PBXTextBookmark */;
+			341E0EEA1219BB6800740CC7 /* PlistBookmark */ = 341E0EEA1219BB6800740CC7 /* PlistBookmark */;
+			341E0EEB1219BB6800740CC7 /* PBXTextBookmark */ = 341E0EEB1219BB6800740CC7 /* PBXTextBookmark */;
+			341E0EEC1219BB6800740CC7 /* PBXTextBookmark */ = 341E0EEC1219BB6800740CC7 /* PBXTextBookmark */;
+			341E0EED1219BB6800740CC7 /* PBXTextBookmark */ = 341E0EED1219BB6800740CC7 /* PBXTextBookmark */;
+			341E0EEF1219BB6800740CC7 /* PBXTextBookmark */ = 341E0EEF1219BB6800740CC7 /* PBXTextBookmark */;
+			348323D41225A00F00D0A914 /* PBXTextBookmark */ = 348323D41225A00F00D0A914 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 341E0DE612189BC100740CC7 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	341E0DDC12189BB400740CC7 /* iPhone Physics Game */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "iPhone Physics Game";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	341E0DE612189BC100740CC7 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	341E0DE712189BC100740CC7 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	341E0DF912189C4700740CC7 /* Canvas.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 443}}";
+			sepNavSelRange = "{542, 31}";
+			sepNavVisRange = "{0, 580}";
+		};
+	};
+	341E0DFA12189C4700740CC7 /* Canvas.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{236, 103}\";\n            s = 0;\n        },\n                {\n            r = \"{1819, 46}\";\n            s = 0;\n        },\n                {\n            r = \"{1888, 2156}\";\n            s = 0;\n        },\n                {\n            r = \"{4211, 1764}\";\n            s = 0;\n        },\n                {\n            r = \"{6063, 459}\";\n            s = 0;\n        },\n                {\n            r = \"{7377, 188}\";\n            s = 0;\n        },\n                {\n            r = \"{7790, 47}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 7846}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {992, 1235}}";
+			sepNavSelRange = "{2252, 85}";
+			sepNavVisRange = "{1161, 1518}";
+		};
+	};
+	341E0DFB12189C4700740CC7 /* Curve.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 443}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 480}";
+		};
+	};
+	341E0DFC12189C4700740CC7 /* Curve.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 741}}";
+			sepNavSelRange = "{776, 0}";
+			sepNavVisRange = "{341, 726}";
+		};
+	};
+	341E0E571218C50800740CC7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* AppDelegate.m */;
+		name = "AppDelegate.m: 10";
+		rLen = 0;
+		rLoc = 205;
+		rType = 0;
+		vrLen = 1631;
+		vrLoc = 0;
+	};
+	341E0E581218C50800740CC7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ViewController.h */;
+		name = "ViewController.h: 11";
+		rLen = 0;
+		rLoc = 211;
+		rType = 0;
+		vrLen = 257;
+		vrLoc = 0;
+	};
+	341E0E591218C50800740CC7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ViewController.m */;
+		name = "ViewController.m: 9";
+		rLen = 0;
+		rLoc = 184;
+		rType = 0;
+		vrLen = 828;
+		vrLoc = 0;
+	};
+	341E0E5C1218C50800740CC7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 341E0DFC12189C4700740CC7 /* Curve.m */;
+		name = "Curve.m: 37";
+		rLen = 0;
+		rLoc = 776;
+		rType = 0;
+		vrLen = 726;
+		vrLoc = 341;
+	};
+	341E0EEA1219BB6800740CC7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* iPhone_Physics_Game-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UISupportedInterfaceOrientations,
+			0,
+		);
+		name = "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/iPhone_Physics_Game-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	341E0EEB1219BB6800740CC7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* AppDelegate.h */;
+		name = "AppDelegate.h: 13";
+		rLen = 0;
+		rLoc = 232;
+		rType = 0;
+		vrLen = 477;
+		vrLoc = 0;
+	};
+	341E0EEC1219BB6800740CC7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 341E0DF912189C4700740CC7 /* Canvas.h */;
+		name = "Canvas.h: 28";
+		rLen = 31;
+		rLoc = 542;
+		rType = 0;
+		vrLen = 580;
+		vrLoc = 0;
+	};
+	341E0EED1219BB6800740CC7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 341E0DFB12189C4700740CC7 /* Curve.h */;
+		name = "Curve.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 480;
+		vrLoc = 0;
+	};
+	341E0EEF1219BB6800740CC7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 341E0DFA12189C4700740CC7 /* Canvas.m */;
+		name = "Canvas.m: 229";
+		rLen = 85;
+		rLoc = 6775;
+		rType = 0;
+		vrLen = 5815;
+		vrLoc = 1326;
+	};
+	348323D41225A00F00D0A914 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 341E0DFA12189C4700740CC7 /* Canvas.m */;
+		name = "Canvas.m: 229";
+		rLen = 85;
+		rLoc = 6775;
+		rType = 0;
+		vrLen = 5939;
+		vrLoc = 1263;
+	};
+	8D1107310486CEB800E47090 /* iPhone_Physics_Game-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{38, 89}, {1120, 763}}";
+		};
+	};
+}

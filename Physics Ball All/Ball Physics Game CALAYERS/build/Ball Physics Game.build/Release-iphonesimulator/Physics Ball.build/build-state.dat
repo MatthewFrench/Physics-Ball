@@ -1,0 +1,517 @@
+TPhysics Ball
+v7
+r1
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004C5A4E570000000000019D60
+t1280986711
+s105824
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C5A505200000000000000C4
+t1280987218
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004C5A50EF0000000000154E50
+t1280987375
+s1396304
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/AppDelegate.h
+c000000004CC49AB9000000000000085C
+t1287953081
+s2140
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+i"Menu.h"
+i"GameView.h"
+i"Sprite.h"
+i"Curve.h"
+i"MenuView.h"
+i"Ball.h"
+i"Text.h"
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/AppDelegate.m
+c000000004CC4B7740000000000007777
+t1287960436
+s30583
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Ball.h
+c000000004CBB9E7F000000000000024A
+t1287364223
+s586
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Ball.m
+c000000004CC4B1900000000000000BEE
+t1287958928
+s3054
+i"Ball.h"
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Curve.h
+c000000004CBB6C960000000000000432
+t1287351446
+s1074
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Curve.m
+c000000004CC4E80C000000000000204C
+t1287972876
+s8268
+i"Curve.h"
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/GameView.h
+c000000004C6981B800000000000000B0
+t1281982904
+s176
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/GameView.m
+c000000004CBE38E600000000000010C3
+t1287534822
+s4291
+i"GameView.h"
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Menu.h
+c000000004C47D43100000000000000B3
+t1279775793
+s179
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Menu.m
+c000000004CB4FDCB000000000000064B
+t1286929867
+s1611
+i"Menu.h"
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/MenuView.h
+c000000004CC10CB50000000000000146
+t1287720117
+s326
+i<Foundation/Foundation.h>
+i"Curve.h"
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/MenuView.m
+c000000004CC10CB50000000000000875
+t1287720117
+s2165
+i"MenuView.h"
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Sprite.h
+c000000004C698260000000000000010B
+t1281983072
+s267
+i<Foundation/Foundation.h>
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Sprite.m
+c000000004C4A6BC60000000000000224
+t1279945670
+s548
+i"Sprite.h"
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Text.h
+c000000004CBB79AD000000000000026B
+t1287354797
+s619
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Text.m
+c000000004CC1123500000000000006E5
+t1287721525
+s1765
+i"Text.h"
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Default.png
+c000000004C47D1F00000000000006334
+t1279775216
+s25396
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Icon.png
+c000000004C69A4040000000000001982
+t1281991684
+s6530
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 1.lvl
+c000000004CC44ECD0000000000000946
+t1287933645
+s2374
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 10.lvl
+c000000004CC4A9CE0000000000000556
+t1287956942
+s1366
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 11.lvl
+c000000004CC4ACAC0000000000000C89
+t1287957676
+s3209
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 12.lvl
+c000000004CC4E8C900000000000018A3
+t1287973065
+s6307
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 13.lvl
+c000000004CC4EB52000000000000D35A
+t1287973714
+s54106
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 2.lvl
+c000000004CC4927F0000000000000AD7
+t1287950975
+s2775
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 20.lvl
+c000000004CB4FE7C0000000000001C11
+t1286930044
+s7185
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 3.lvl
+c000000004CC49DE800000000000005D8
+t1287953896
+s1496
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 4.lvl
+c000000004CC49F8B00000000000005A0
+t1287954315
+s1440
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 5.lvl
+c000000004CC4A1820000000000000A88
+t1287954818
+s2696
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 6.lvl
+c000000004CC4A20D00000000000003F6
+t1287954957
+s1014
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 7.lvl
+c000000004CC4A3A30000000000000689
+t1287955363
+s1673
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 8.lvl
+c000000004CC4A58600000000000004D3
+t1287955846
+s1235
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Level 9.lvl
+c000000004CC4A76300000000000004DB
+t1287956323
+s1243
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/MainWindow.xib
+c000000004CC4B0E10000000000016D0F
+t1287958753
+s93455
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Menu Level.lvl
+c000000004CB33764000000000000048C
+t1286813540
+s1164
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Ultimate_iPhone_Template_Prefix.pch
+c000000004C474ECC00000000000000D9
+t1279741644
+s217
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Release-iphonesimulator/Physics Ball.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Release-iphonesimulator/Physics Ball.build/Objects-normal/i386/Ball.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Release-iphonesimulator/Physics Ball.build/Objects-normal/i386/Curve.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Release-iphonesimulator/Physics Ball.build/Objects-normal/i386/GameView.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Release-iphonesimulator/Physics Ball.build/Objects-normal/i386/Menu.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Release-iphonesimulator/Physics Ball.build/Objects-normal/i386/MenuView.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Release-iphonesimulator/Physics Ball.build/Objects-normal/i386/Sprite.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Release-iphonesimulator/Physics Ball.build/Objects-normal/i386/Text.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Release-iphonesimulator/Physics Ball.build/Objects-normal/i386/Ultimate iPhone Template.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Ball Physics Game.build/Release-iphonesimulator/Physics Ball.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Release-iphonesimulator/Ultimate iPhone Template.app
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Release-iphonesimulator/Ultimate iPhone Template.app.dSYM
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Release-iphonesimulator/Ultimate iPhone Template.app/Default.png
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Release-iphonesimulator/Ultimate iPhone Template.app/Icon.png
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Release-iphonesimulator/Ultimate iPhone Template.app/Info.plist
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Release-iphonesimulator/Ultimate iPhone Template.app/Level 1.lvl
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Release-iphonesimulator/Ultimate iPhone Template.app/Level 10.lvl
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Release-iphonesimulator/Ultimate iPhone Template.app/Level 11.lvl
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Release-iphonesimulator/Ultimate iPhone Template.app/Level 12.lvl
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Release-iphonesimulator/Ultimate iPhone Template.app/Level 13.lvl
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Release-iphonesimulator/Ultimate iPhone Template.app/Level 2.lvl
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Release-iphonesimulator/Ultimate iPhone Template.app/Level 20.lvl
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Release-iphonesimulator/Ultimate iPhone Template.app/Level 3.lvl
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Release-iphonesimulator/Ultimate iPhone Template.app/Level 4.lvl
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Release-iphonesimulator/Ultimate iPhone Template.app/Level 5.lvl
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Release-iphonesimulator/Ultimate iPhone Template.app/Level 6.lvl
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Release-iphonesimulator/Ultimate iPhone Template.app/Level 7.lvl
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Release-iphonesimulator/Ultimate iPhone Template.app/Level 8.lvl
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Release-iphonesimulator/Ultimate iPhone Template.app/Level 9.lvl
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Release-iphonesimulator/Ultimate iPhone Template.app/MainWindow.nib
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Release-iphonesimulator/Ultimate iPhone Template.app/Menu Level.lvl
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Release-iphonesimulator/Ultimate iPhone Template.app/PkgInfo
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Release-iphonesimulator/Ultimate iPhone Template.app/Ultimate iPhone Template
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Release-iphonesimulator/Ultimate iPhone Template.app/reverse gravity.png
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/main.m
+c000000004C474ECC000000000000017C
+t1279741644
+s380
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/reverse gravity.png
+c000000004C75BEB20000000000000CB6
+t1282784946
+s3254
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-bqjgqfacwhrhmzdtvngmucqimyop/Ultimate_iPhone_Template_Prefix.pch.gch
+t2
+s0
+
+NUltimate_iPhone_Template-Info.plist
+c000000004C698DBD0000000000000463
+t1281985981
+s1123
+
+CCompileC "build/Ball Physics Game.build/Release-iphonesimulator/Physics Ball.build/Objects-normal/i386/AppDelegate.o" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Ball Physics Game.build/Release-iphonesimulator/Physics Ball.build/Objects-normal/i386/Ball.o" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Ball.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Ball Physics Game.build/Release-iphonesimulator/Physics Ball.build/Objects-normal/i386/Curve.o" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Curve.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Ball Physics Game.build/Release-iphonesimulator/Physics Ball.build/Objects-normal/i386/GameView.o" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/GameView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Ball Physics Game.build/Release-iphonesimulator/Physics Ball.build/Objects-normal/i386/Menu.o" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Menu.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Ball Physics Game.build/Release-iphonesimulator/Physics Ball.build/Objects-normal/i386/MenuView.o" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/MenuView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Ball Physics Game.build/Release-iphonesimulator/Physics Ball.build/Objects-normal/i386/Sprite.o" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Sprite.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Ball Physics Game.build/Release-iphonesimulator/Physics Ball.build/Objects-normal/i386/Text.o" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/Classes/Text.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Ball Physics Game.build/Release-iphonesimulator/Physics Ball.build/Objects-normal/i386/main.o" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/MainWindow.xib"
+r0
+
+CCpResource "build/Release-iphonesimulator/Ultimate iPhone Template.app/Default.png" Default.png
+r0
+
+CCpResource "build/Release-iphonesimulator/Ultimate iPhone Template.app/Icon.png" Icon.png
+r0
+
+CCpResource "build/Release-iphonesimulator/Ultimate iPhone Template.app/Level 1.lvl" "Level 1.lvl"
+r0
+
+CCpResource "build/Release-iphonesimulator/Ultimate iPhone Template.app/Level 10.lvl" "Level 10.lvl"
+r0
+
+CCpResource "build/Release-iphonesimulator/Ultimate iPhone Template.app/Level 11.lvl" "Level 11.lvl"
+r0
+
+CCpResource "build/Release-iphonesimulator/Ultimate iPhone Template.app/Level 12.lvl" "Level 12.lvl"
+r0
+
+CCpResource "build/Release-iphonesimulator/Ultimate iPhone Template.app/Level 13.lvl" "Level 13.lvl"
+r0
+
+CCpResource "build/Release-iphonesimulator/Ultimate iPhone Template.app/Level 2.lvl" "Level 2.lvl"
+r0
+
+CCpResource "build/Release-iphonesimulator/Ultimate iPhone Template.app/Level 20.lvl" "Level 20.lvl"
+r0
+
+CCpResource "build/Release-iphonesimulator/Ultimate iPhone Template.app/Level 3.lvl" "Level 3.lvl"
+r0
+
+CCpResource "build/Release-iphonesimulator/Ultimate iPhone Template.app/Level 4.lvl" "Level 4.lvl"
+r0
+
+CCpResource "build/Release-iphonesimulator/Ultimate iPhone Template.app/Level 5.lvl" "Level 5.lvl"
+r0
+
+CCpResource "build/Release-iphonesimulator/Ultimate iPhone Template.app/Level 6.lvl" "Level 6.lvl"
+r0
+
+CCpResource "build/Release-iphonesimulator/Ultimate iPhone Template.app/Level 7.lvl" "Level 7.lvl"
+r0
+
+CCpResource "build/Release-iphonesimulator/Ultimate iPhone Template.app/Level 8.lvl" "Level 8.lvl"
+r0
+
+CCpResource "build/Release-iphonesimulator/Ultimate iPhone Template.app/Level 9.lvl" "Level 9.lvl"
+r0
+
+CCpResource "build/Release-iphonesimulator/Ultimate iPhone Template.app/Menu Level.lvl" "Menu Level.lvl"
+r0
+
+CCpResource "build/Release-iphonesimulator/Ultimate iPhone Template.app/reverse gravity.png" "reverse gravity.png"
+r0
+
+CGenerateDSYMFile "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Release-iphonesimulator/Ultimate iPhone Template.app.dSYM" "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Release-iphonesimulator/Ultimate iPhone Template.app/Ultimate iPhone Template"
+r0
+
+CLd "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Release-iphonesimulator/Ultimate iPhone Template.app/Ultimate iPhone Template" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Release-iphonesimulator/Ultimate iPhone Template.app/Info.plist" Ultimate_iPhone_Template-Info.plist
+r0
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Ultimate_iPhone_Template_Prefix-bqjgqfacwhrhmzdtvngmucqimyop/Ultimate_iPhone_Template_Prefix.pch.gch Ultimate_iPhone_Template_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/matthew/Desktop/My Code Sources/Ball Physics Game CALAYERS/build/Release-iphonesimulator/Ultimate iPhone Template.app"
+r0
+

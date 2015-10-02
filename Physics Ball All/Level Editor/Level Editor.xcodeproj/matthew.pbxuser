@@ -1,0 +1,353 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {931, 377}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1079, 1209}}";
+			sepNavSelRange = "{2809, 0}";
+			sepNavVisRange = "{1324, 1492}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{753, 954}\";\n            s = 0;\n        },\n                {\n            r = \"{1746, 354}\";\n            s = 0;\n        },\n                {\n            r = \"{2134, 172}\";\n            s = 0;\n        },\n                {\n            r = \"{2340, 168}\";\n            s = 0;\n        },\n                {\n            r = \"{2547, 338}\";\n            s = 0;\n        },\n                {\n            r = \"{2929, 151}\";\n            s = 0;\n        },\n                {\n            r = \"{3122, 340}\";\n            s = 0;\n        },\n                {\n            r = \"{3504, 339}\";\n            s = 0;\n        },\n                {\n            r = \"{3882, 341}\";\n            s = 0;\n        },\n                {\n            r = \"{4264, 339}\";\n            s = 0;\n        },\n                {\n            r = \"{4638, 416}\";\n            s = 0;\n        },\n                {\n            r = \"{5093, 31}\";\n            s = 0;\n        },\n                {\n            r = \"{5162, 32}\";\n            s = 0;\n        },\n                {\n            r = \"{5231, 2363}\";\n            s = 0;\n        },\n                {\n            r = \"{7631, 2499}\";\n            s = 0;\n        },\n                {\n            r = \"{10158, 938}\";\n            s = 0;\n        },\n                {\n            r = \"{11133, 26}\";\n            s = 0;\n        },\n                {\n            r = \"{11201, 77}\";\n            s = 0;\n        },\n                {\n            r = \"{11315, 5506}\";\n            s = 0;\n        },\n                {\n            r = \"{16860, 3807}\";\n            s = 0;\n        },\n                {\n            r = \"{20701, 1859}\";\n            s = 0;\n        },\n                {\n            r = \"{22581, 1279}\";\n            s = 0;\n        },\n                {\n            r = \"{23880, 7407}\";\n            s = 0;\n        },\n                {\n            r = \"{31310, 218}\";\n            s = 0;\n        },\n                {\n            r = \"{31561, 504}\";\n            s = 0;\n        },\n                {\n            r = \"{32099, 773}\";\n            s = 0;\n        },\n                {\n            r = \"{32913, 10285}\";\n            s = 0;\n        },\n                {\n            r = \"{43220, 1132}\";\n            s = 0;\n        },\n                {\n            r = \"{44371, 448}\";\n            s = 0;\n        },\n                {\n            r = \"{44864, 430}\";\n            s = 0;\n        },\n                {\n            r = \"{45327, 266}\";\n            s = 0;\n        },\n                {\n            r = \"{45623, 264}\";\n            s = 0;\n        },\n                {\n            r = \"{45908, 235}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 46151}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1079, 871}}";
+			sepNavSelRange = "{754, 0}";
+			sepNavVisRange = "{0, 1155}";
+			sepNavWindowFrame = "{{15, 111}, {793, 762}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 34B7782A121A11C100161758 /* Level Editor */;
+		activeTarget = 8D1107260486CEB800E47090 /* Level Editor */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Level Editor */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 34B7783E121A11CC00161758 /* Code sense */;
+		executables = (
+			34B7782A121A11C100161758 /* Level Editor */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					901,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					863,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 320462775;
+			PBXWorkspaceStateSaveDate = 320462775;
+		};
+		perUserProjectItems = {
+			3452E945126BB17400E5E346 = 3452E945126BB17400E5E346 /* PBXTextBookmark */;
+			3461837812CFA46C006EA133 = 3461837812CFA46C006EA133 /* PBXTextBookmark */;
+			3461837912CFA46C006EA133 = 3461837912CFA46C006EA133 /* PBXTextBookmark */;
+			3461837A12CFA46C006EA133 = 3461837A12CFA46C006EA133 /* PBXTextBookmark */;
+			3461837B12CFA46C006EA133 = 3461837B12CFA46C006EA133 /* PBXTextBookmark */;
+			3461837C12CFA46C006EA133 = 3461837C12CFA46C006EA133 /* PBXTextBookmark */;
+			3461837D12CFA46C006EA133 = 3461837D12CFA46C006EA133 /* PBXTextBookmark */;
+			3461837E12CFA46C006EA133 = 3461837E12CFA46C006EA133 /* PBXTextBookmark */;
+			3461837F12CFA46C006EA133 = 3461837F12CFA46C006EA133 /* PBXTextBookmark */;
+			3461838012CFA46C006EA133 = 3461838012CFA46C006EA133 /* PBXTextBookmark */;
+			34B27F851274CA1500AAEF9C = 34B27F851274CA1500AAEF9C /* PBXTextBookmark */;
+			34B77893121A183100161758 = 34B77893121A183100161758 /* PlistBookmark */;
+			34C6B82D121EF73000AF9E76 = 34C6B82D121EF73000AF9E76 /* PBXBookmark */;
+			34CA86B21220D97F00E068EF = 34CA86B21220D97F00E068EF /* PBXTextBookmark */;
+		};
+		sourceControlManager = 34B7783D121A11CC00161758 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	34068EE01264ACEF00034B35 /* Ball.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1079, 560}}";
+			sepNavSelRange = "{205, 225}";
+			sepNavVisRange = "{0, 430}";
+		};
+	};
+	34068EE11264ACEF00034B35 /* Ball.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1079, 702}}";
+			sepNavSelRange = "{180, 0}";
+			sepNavVisRange = "{157, 1552}";
+		};
+	};
+	3452E945126BB17400E5E346 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 34591FFA1264D44700F29216 /* Text.h */;
+		name = "Text.h: 19";
+		rLen = 35;
+		rLoc = 375;
+		rType = 0;
+		vrLen = 417;
+		vrLoc = 0;
+	};
+	34591FFA1264D44700F29216 /* Text.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1079, 580}}";
+			sepNavSelRange = "{375, 35}";
+			sepNavVisRange = "{0, 417}";
+		};
+	};
+	34591FFB1264D44700F29216 /* Text.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1079, 663}}";
+			sepNavSelRange = "{353, 0}";
+			sepNavVisRange = "{34, 1024}";
+		};
+	};
+	3461837812CFA46C006EA133 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* AppDelegate.h */;
+		name = "AppDelegate.h: 90";
+		rLen = 0;
+		rLoc = 2809;
+		rType = 0;
+		vrLen = 1492;
+		vrLoc = 1324;
+	};
+	3461837912CFA46C006EA133 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* AppDelegate.m */;
+		name = "AppDelegate.m: 58";
+		rLen = 0;
+		rLoc = 1707;
+		rType = 0;
+		vrLen = 4605;
+		vrLoc = 0;
+	};
+	3461837A12CFA46C006EA133 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 34B7784E121A127300161758 /* GameView.h */;
+		name = "GameView.h: 9";
+		rLen = 0;
+		rLoc = 218;
+		rType = 0;
+		vrLen = 311;
+		vrLoc = 0;
+	};
+	3461837B12CFA46C006EA133 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 34B7784F121A127900161758 /* GameView.m */;
+		name = "GameView.m: 66";
+		rLen = 0;
+		rLoc = 2279;
+		rType = 0;
+		vrLen = 3727;
+		vrLoc = 0;
+	};
+	3461837C12CFA46C006EA133 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 34B77847121A124B00161758 /* Curve.h */;
+		name = "Curve.h: 31";
+		rLen = 0;
+		rLoc = 859;
+		rType = 0;
+		vrLen = 1170;
+		vrLoc = 0;
+	};
+	3461837D12CFA46C006EA133 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 34B77848121A124B00161758 /* Curve.m */;
+		name = "Curve.m: 70";
+		rLen = 0;
+		rLoc = 2292;
+		rType = 0;
+		vrLen = 1582;
+		vrLoc = 3952;
+	};
+	3461837E12CFA46C006EA133 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 34068EE01264ACEF00034B35 /* Ball.h */;
+		name = "Ball.h: 13";
+		rLen = 225;
+		rLoc = 205;
+		rType = 0;
+		vrLen = 430;
+		vrLoc = 0;
+	};
+	3461837F12CFA46C006EA133 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 34068EE11264ACEF00034B35 /* Ball.m */;
+		name = "Ball.m: 13";
+		rLen = 0;
+		rLoc = 180;
+		rType = 0;
+		vrLen = 1606;
+		vrLoc = 77;
+	};
+	3461838012CFA46C006EA133 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 34068EE11264ACEF00034B35 /* Ball.m */;
+		name = "Ball.m: 13";
+		rLen = 0;
+		rLoc = 180;
+		rType = 0;
+		vrLen = 1551;
+		vrLoc = 158;
+	};
+	34B27F851274CA1500AAEF9C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 34591FFB1264D44700F29216 /* Text.m */;
+		name = "Text.m: 19";
+		rLen = 0;
+		rLoc = 353;
+		rType = 0;
+		vrLen = 1024;
+		vrLoc = 34;
+	};
+	34B7782A121A11C100161758 /* Level Editor */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Level Editor";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	34B7783D121A11CC00161758 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	34B7783E121A11CC00161758 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	34B77847121A124B00161758 /* Curve.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1079, 560}}";
+			sepNavSelRange = "{859, 0}";
+			sepNavVisRange = "{0, 1170}";
+			sepNavWindowFrame = "{{15, 110}, {1120, 763}}";
+		};
+	};
+	34B77848121A124B00161758 /* Curve.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{3285, 437}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 5534}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 1872}}";
+			sepNavSelRange = "{2292, 0}";
+			sepNavVisRange = "{3516, 1582}";
+		};
+	};
+	34B7784E121A127300161758 /* GameView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1079, 582}}";
+			sepNavSelRange = "{218, 0}";
+			sepNavVisRange = "{0, 311}";
+		};
+	};
+	34B7784F121A127900161758 /* GameView.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{223, 193}\";\n            s = 0;\n        },\n                {\n            r = \"{430, 17}\";\n            s = 0;\n        },\n                {\n            r = \"{471, 87}\";\n            s = 0;\n        },\n                {\n            r = \"{592, 111}\";\n            s = 0;\n        },\n                {\n            r = \"{743, 320}\";\n            s = 0;\n        },\n                {\n            r = \"{1105, 323}\";\n            s = 0;\n        },\n                {\n            r = \"{1465, 318}\";\n            s = 0;\n        },\n                {\n            r = \"{1821, 189}\";\n            s = 0;\n        },\n                {\n            r = \"{2045, 187}\";\n            s = 0;\n        },\n                {\n            r = \"{2311, 14}\";\n            s = 0;\n        },\n                {\n            r = \"{2416, 1210}\";\n            s = 0;\n        },\n                {\n            r = \"{3647, 72}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 3727}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1079, 582}}";
+			sepNavSelRange = "{543, 0}";
+			sepNavVisRange = "{0, 698}";
+		};
+	};
+	34B77893121A183100161758 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Level_Editor-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/matthew/Desktop/My Code Sources/Level Editor/Level_Editor-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	34C6B82D121EF73000AF9E76 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 34C6B7B9121EF11200AF9E76 /* reverse gravity.png */;
+	};
+	34CA86B21220D97F00E068EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	8D1107260486CEB800E47090 /* Level Editor */ = {
+		activeExec = 0;
+		executables = (
+			34B7782A121A11C100161758 /* Level Editor */,
+		);
+	};
+}

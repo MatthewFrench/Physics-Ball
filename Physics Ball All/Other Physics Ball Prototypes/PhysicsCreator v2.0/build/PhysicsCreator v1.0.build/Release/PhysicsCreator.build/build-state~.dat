@@ -1,0 +1,1383 @@
+TPhysicsCreator
+v7
+r0
+t327765812.623222
+cCheck dependencies
+cProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/Release/PhysicsCreator.app/Contents/Info.plist" PhysicsCreator-Info.plist
+cCopyStringsFile "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/Release/PhysicsCreator.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/English.lproj/MainMenu.xib"
+cCpResource build/Release/PhysicsCreator.app/Contents/Resources/Box2DConfig.cmake Box2D/Box2DConfig.cmake
+cCpResource build/Release/PhysicsCreator.app/Contents/Resources/CMakeLists.txt Box2D/CMakeLists.txt
+cProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhysicsCreator_Prefix-gljctxycfroxaddkfdxipoktbpkl/PhysicsCreator_Prefix.pch.pth PhysicsCreator_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH++ /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhysicsCreator_Prefix-bnvoyjaambatrbbcgfuwcfhxciej/PhysicsCreator_Prefix.pch.gch PhysicsCreator_Prefix.pch normal i386 objective-c++ com.apple.compilers.llvmgcc42
+cProcessPCH++ /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhysicsCreator_Prefix-eoblabvzcbtxglalsctuazqkdxwa/PhysicsCreator_Prefix.pch.gch PhysicsCreator_Prefix.pch normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/main.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Developer Xcode 3/SDKs/MacOSX10.6.sdk
+c000000004D4722C400000000000000EE
+t1296507588
+s238
+
+N/Developer Xcode 3/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c000000004C23BD2900000000000017ED
+t1277410601
+s6125
+
+N/Developer Xcode 3/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer Xcode 3/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Quartz
+c000000004CAA740500000000000036E0
+t1286239237
+s14048
+
+N/Developer Xcode 3/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CAA740500000000000A3C74
+t1286239237
+s670836
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/AppDelegate.h
+c000000004D7D44250000000000000772
+t1300055077
+s1906
+i<Cocoa/Cocoa.h>
+i<Box2D/Box2D.h>
+i"QueryCallback.h"
+i"Shape.h"
+i"MainView.h"
+i"MainWindow.h"
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/AppDelegate.m
+c000000004D6B17E40000000000003B65
+t1298864100
+s15205
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Box2D.h
+c000000004D17F297000000000000095B
+t1293415063
+s2395
+i<Box2D/Common/b2Settings.h>
+i<Box2D/Collision/Shapes/b2CircleShape.h>
+i<Box2D/Collision/Shapes/b2EdgeShape.h>
+i<Box2D/Collision/Shapes/b2LoopShape.h>
+i<Box2D/Collision/Shapes/b2PolygonShape.h>
+i<Box2D/Collision/b2BroadPhase.h>
+i<Box2D/Collision/b2Distance.h>
+i<Box2D/Collision/b2DynamicTree.h>
+i<Box2D/Collision/b2TimeOfImpact.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2Fixture.h>
+i<Box2D/Dynamics/b2WorldCallbacks.h>
+i<Box2D/Dynamics/b2TimeStep.h>
+i<Box2D/Dynamics/b2World.h>
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+i<Box2D/Dynamics/Joints/b2DistanceJoint.h>
+i<Box2D/Dynamics/Joints/b2FrictionJoint.h>
+i<Box2D/Dynamics/Joints/b2GearJoint.h>
+i<Box2D/Dynamics/Joints/b2LineJoint.h>
+i<Box2D/Dynamics/Joints/b2MouseJoint.h>
+i<Box2D/Dynamics/Joints/b2PrismaticJoint.h>
+i<Box2D/Dynamics/Joints/b2PulleyJoint.h>
+i<Box2D/Dynamics/Joints/b2RevoluteJoint.h>
+i<Box2D/Dynamics/Joints/b2RopeJoint.h>
+i<Box2D/Dynamics/Joints/b2WeldJoint.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Box2DConfig.cmake
+c000000004D17F29700000000000000BF
+t1293415063
+s191
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/CMakeLists.txt
+c000000004D17F29700000000000015CC
+t1293415063
+s5580
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Collision/Shapes/b2CircleShape.cpp
+c000000004D17F2970000000000000C83
+t1293415063
+s3203
+i<Box2D/Collision/Shapes/b2CircleShape.h>
+i<new>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Collision/Shapes/b2CircleShape.h
+c000000004D17F2970000000000000A45
+t1293415063
+s2629
+i<Box2D/Collision/Shapes/b2Shape.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Collision/Shapes/b2EdgeShape.cpp
+c000000004D17F2970000000000000D85
+t1293415063
+s3461
+i<Box2D/Collision/Shapes/b2EdgeShape.h>
+i<new>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Collision/Shapes/b2EdgeShape.h
+c000000004D17F2970000000000000922
+t1293415063
+s2338
+i<Box2D/Collision/Shapes/b2Shape.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Collision/Shapes/b2LoopShape.cpp
+c000000004D17F2970000000000000DB0
+t1293415063
+s3504
+i<Box2D/Collision/Shapes/b2LoopShape.h>
+i<Box2D/Collision/Shapes/b2EdgeShape.h>
+i<new>
+i<cstring>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Collision/Shapes/b2LoopShape.h
+c000000004D17F2970000000000000C05
+t1293415063
+s3077
+i<Box2D/Collision/Shapes/b2Shape.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Collision/Shapes/b2PolygonShape.cpp
+c000000004D17F2970000000000002650
+t1293415063
+s9808
+i<Box2D/Collision/Shapes/b2PolygonShape.h>
+i<new>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Collision/Shapes/b2PolygonShape.h
+c000000004D17F2970000000000000D0F
+t1293415063
+s3343
+i<Box2D/Collision/Shapes/b2Shape.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Collision/Shapes/b2Shape.h
+c000000004D17F2970000000000000E47
+t1293415063
+s3655
+i<Box2D/Common/b2BlockAllocator.h>
+i<Box2D/Common/b2Math.h>
+i<Box2D/Collision/b2Collision.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Collision/b2BroadPhase.cpp
+c000000004D17F2970000000000000C70
+t1293415063
+s3184
+i<Box2D/Collision/b2BroadPhase.h>
+i<cstring>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Collision/b2BroadPhase.h
+c000000004D17F2970000000000001928
+t1293415063
+s6440
+i<Box2D/Common/b2Settings.h>
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/b2DynamicTree.h>
+i<algorithm>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Collision/b2CollideCircle.cpp
+c000000004D17F29700000000000011A5
+t1293415063
+s4517
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/Shapes/b2CircleShape.h>
+i<Box2D/Collision/Shapes/b2PolygonShape.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Collision/b2CollideEdge.cpp
+c000000004D17F2970000000000003FE9
+t1293415063
+s16361
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/Shapes/b2CircleShape.h>
+i<Box2D/Collision/Shapes/b2EdgeShape.h>
+i<Box2D/Collision/Shapes/b2PolygonShape.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Collision/b2CollidePolygon.cpp
+c000000004D17F297000000000000236B
+t1293415063
+s9067
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/Shapes/b2PolygonShape.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Collision/b2Collision.cpp
+c000000004D17F297000000000000197D
+t1293415063
+s6525
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/b2Distance.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Collision/b2Collision.h
+c000000004D17F2970000000000002431
+t1293415063
+s9265
+i<Box2D/Common/b2Math.h>
+i<climits>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Collision/b2Distance.cpp
+c000000004D17F29700000000000035DC
+t1293415063
+s13788
+i<Box2D/Collision/b2Distance.h>
+i<Box2D/Collision/Shapes/b2CircleShape.h>
+i<Box2D/Collision/Shapes/b2EdgeShape.h>
+i<Box2D/Collision/Shapes/b2LoopShape.h>
+i<Box2D/Collision/Shapes/b2PolygonShape.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Collision/b2Distance.h
+c000000004D17F2970000000000000F51
+t1293415063
+s3921
+i<Box2D/Common/b2Math.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Collision/b2DynamicTree.cpp
+c000000004D17F297000000000000284D
+t1293415063
+s10317
+i<Box2D/Collision/b2DynamicTree.h>
+i<cstring>
+i<cfloat>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Collision/b2DynamicTree.h
+c000000004D17F2970000000000001CBF
+t1293415063
+s7359
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Common/b2GrowableStack.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Collision/b2TimeOfImpact.cpp
+c000000004D17F2970000000000002F7E
+t1293415063
+s12158
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/b2Distance.h>
+i<Box2D/Collision/b2TimeOfImpact.h>
+i<Box2D/Collision/Shapes/b2CircleShape.h>
+i<Box2D/Collision/Shapes/b2PolygonShape.h>
+i<cstdio>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Collision/b2TimeOfImpact.h
+c000000004D17F2970000000000000784
+t1293415063
+s1924
+i<Box2D/Common/b2Math.h>
+i<Box2D/Collision/b2Distance.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Common/b2BlockAllocator.cpp
+c000000004D17F29700000000000013FD
+t1293415063
+s5117
+i<Box2D/Common/b2BlockAllocator.h>
+i<cstdlib>
+i<climits>
+i<cstring>
+i<memory>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Common/b2BlockAllocator.h
+c000000004D17F29700000000000007E0
+t1293415063
+s2016
+i<Box2D/Common/b2Settings.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Common/b2GrowableStack.h
+c000000004D17F29700000000000007EB
+t1293415063
+s2027
+i<Box2D/Common/b2Settings.h>
+i<cstring>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Common/b2Math.cpp
+c000000004D17F29700000000000007CB
+t1293415063
+s1995
+i<Box2D/Common/b2Math.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Common/b2Math.h
+c000000004D17F2970000000000003D33
+t1293415063
+s15667
+i<Box2D/Common/b2Settings.h>
+i<cmath>
+i<cfloat>
+i<cstddef>
+i<limits>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Common/b2Settings.cpp
+c000000004D17F297000000000000049C
+t1293415063
+s1180
+i<Box2D/Common/b2Settings.h>
+i<cstdlib>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Common/b2Settings.h
+c000000004D17F2970000000000001602
+t1293415063
+s5634
+i<cassert>
+i<cmath>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Common/b2StackAllocator.cpp
+c000000004D17F2970000000000000857
+t1293415063
+s2135
+i<Box2D/Common/b2StackAllocator.h>
+i<Box2D/Common/b2Math.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Common/b2StackAllocator.h
+c000000004D17F29700000000000006C7
+t1293415063
+s1735
+i<Box2D/Common/b2Settings.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Contacts/b2CircleContact.cpp
+c000000004D17F297000000000000085A
+t1293415063
+s2138
+i<Box2D/Dynamics/Contacts/b2CircleContact.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2Fixture.h>
+i<Box2D/Dynamics/b2WorldCallbacks.h>
+i<Box2D/Common/b2BlockAllocator.h>
+i<Box2D/Collision/b2TimeOfImpact.h>
+i<new>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Contacts/b2CircleContact.h
+c000000004D17F29700000000000005E5
+t1293415063
+s1509
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Contacts/b2Contact.cpp
+c000000004D17F2970000000000001D94
+t1293415063
+s7572
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+i<Box2D/Dynamics/Contacts/b2CircleContact.h>
+i<Box2D/Dynamics/Contacts/b2PolygonAndCircleContact.h>
+i<Box2D/Dynamics/Contacts/b2PolygonContact.h>
+i<Box2D/Dynamics/Contacts/b2EdgeAndCircleContact.h>
+i<Box2D/Dynamics/Contacts/b2EdgeAndPolygonContact.h>
+i<Box2D/Dynamics/Contacts/b2LoopAndCircleContact.h>
+i<Box2D/Dynamics/Contacts/b2LoopAndPolygonContact.h>
+i<Box2D/Dynamics/Contacts/b2ContactSolver.h>
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/b2TimeOfImpact.h>
+i<Box2D/Collision/Shapes/b2Shape.h>
+i<Box2D/Common/b2BlockAllocator.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2Fixture.h>
+i<Box2D/Dynamics/b2World.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Contacts/b2Contact.h
+c000000004D17F2970000000000001CC9
+t1293415063
+s7369
+i<Box2D/Common/b2Math.h>
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/Shapes/b2Shape.h>
+i<Box2D/Dynamics/b2Fixture.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Contacts/b2ContactSolver.cpp
+c000000004D17F29700000000000053E5
+t1293415063
+s21477
+i<Box2D/Dynamics/Contacts/b2ContactSolver.h>
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2Fixture.h>
+i<Box2D/Dynamics/b2World.h>
+i<Box2D/Common/b2StackAllocator.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Contacts/b2ContactSolver.h
+c000000004D17F297000000000000093B
+t1293415063
+s2363
+i<Box2D/Common/b2Math.h>
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Dynamics/b2Island.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Contacts/b2EdgeAndCircleContact.cpp
+c000000004D17F2970000000000000830
+t1293415063
+s2096
+i<Box2D/Dynamics/Contacts/b2EdgeAndCircleContact.h>
+i<Box2D/Common/b2BlockAllocator.h>
+i<Box2D/Dynamics/b2Fixture.h>
+i<new>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Contacts/b2EdgeAndCircleContact.h
+c000000004D17F297000000000000060C
+t1293415063
+s1548
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Contacts/b2EdgeAndPolygonContact.cpp
+c000000004D17F297000000000000083E
+t1293415063
+s2110
+i<Box2D/Dynamics/Contacts/b2EdgeAndPolygonContact.h>
+i<Box2D/Common/b2BlockAllocator.h>
+i<Box2D/Dynamics/b2Fixture.h>
+i<new>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Contacts/b2EdgeAndPolygonContact.h
+c000000004D17F2970000000000000611
+t1293415063
+s1553
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Contacts/b2LoopAndCircleContact.cpp
+c000000004D17F2970000000000000924
+t1293415063
+s2340
+i<Box2D/Dynamics/Contacts/b2LoopAndCircleContact.h>
+i<Box2D/Common/b2BlockAllocator.h>
+i<Box2D/Dynamics/b2Fixture.h>
+i<Box2D/Collision/Shapes/b2LoopShape.h>
+i<Box2D/Collision/Shapes/b2EdgeShape.h>
+i<new>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Contacts/b2LoopAndCircleContact.h
+c000000004D17F2970000000000000628
+t1293415063
+s1576
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Contacts/b2LoopAndPolygonContact.cpp
+c000000004D17F2970000000000000933
+t1293415063
+s2355
+i<Box2D/Dynamics/Contacts/b2LoopAndPolygonContact.h>
+i<Box2D/Common/b2BlockAllocator.h>
+i<Box2D/Dynamics/b2Fixture.h>
+i<Box2D/Collision/Shapes/b2LoopShape.h>
+i<Box2D/Collision/Shapes/b2EdgeShape.h>
+i<new>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Contacts/b2LoopAndPolygonContact.h
+c000000004D17F297000000000000062D
+t1293415063
+s1581
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Contacts/b2PolygonAndCircleContact.cpp
+c000000004D17F297000000000000085A
+t1293415063
+s2138
+i<Box2D/Dynamics/Contacts/b2PolygonAndCircleContact.h>
+i<Box2D/Common/b2BlockAllocator.h>
+i<Box2D/Dynamics/b2Fixture.h>
+i<new>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Contacts/b2PolygonAndCircleContact.h
+c000000004D17F2970000000000000611
+t1293415063
+s1553
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Contacts/b2PolygonContact.cpp
+c000000004D17F297000000000000086D
+t1293415063
+s2157
+i<Box2D/Dynamics/Contacts/b2PolygonContact.h>
+i<Box2D/Common/b2BlockAllocator.h>
+i<Box2D/Collision/b2TimeOfImpact.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2Fixture.h>
+i<Box2D/Dynamics/b2WorldCallbacks.h>
+i<new>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Contacts/b2PolygonContact.h
+c000000004D17F29700000000000005EA
+t1293415063
+s1514
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Joints/b2DistanceJoint.cpp
+c000000004D17F2970000000000001805
+t1293415063
+s6149
+i<Box2D/Dynamics/Joints/b2DistanceJoint.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2TimeStep.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Joints/b2DistanceJoint.h
+c000000004D17F297000000000000104E
+t1293415063
+s4174
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Joints/b2FrictionJoint.cpp
+c000000004D17F2970000000000001881
+t1293415063
+s6273
+i<Box2D/Dynamics/Joints/b2FrictionJoint.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2TimeStep.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Joints/b2FrictionJoint.h
+c000000004D17F2970000000000000B38
+t1293415063
+s2872
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Joints/b2GearJoint.cpp
+c000000004D17F2970000000000001C6E
+t1293415063
+s7278
+i<Box2D/Dynamics/Joints/b2GearJoint.h>
+i<Box2D/Dynamics/Joints/b2RevoluteJoint.h>
+i<Box2D/Dynamics/Joints/b2PrismaticJoint.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2TimeStep.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Joints/b2GearJoint.h
+c000000004D17F2970000000000000CE4
+t1293415063
+s3300
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Joints/b2Joint.cpp
+c000000004D17F29700000000000013BA
+t1293415063
+s5050
+i<Box2D/Dynamics/Joints/b2Joint.h>
+i<Box2D/Dynamics/Joints/b2DistanceJoint.h>
+i<Box2D/Dynamics/Joints/b2LineJoint.h>
+i<Box2D/Dynamics/Joints/b2MouseJoint.h>
+i<Box2D/Dynamics/Joints/b2RevoluteJoint.h>
+i<Box2D/Dynamics/Joints/b2PrismaticJoint.h>
+i<Box2D/Dynamics/Joints/b2PulleyJoint.h>
+i<Box2D/Dynamics/Joints/b2GearJoint.h>
+i<Box2D/Dynamics/Joints/b2WeldJoint.h>
+i<Box2D/Dynamics/Joints/b2FrictionJoint.h>
+i<Box2D/Dynamics/Joints/b2RopeJoint.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2World.h>
+i<Box2D/Common/b2BlockAllocator.h>
+i<new>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Joints/b2Joint.h
+c000000004D17F297000000000000173D
+t1293415063
+s5949
+i<Box2D/Common/b2Math.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Joints/b2LineJoint.cpp
+c000000004D17F2970000000000003AA1
+t1293415063
+s15009
+i<Box2D/Dynamics/Joints/b2LineJoint.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2TimeStep.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Joints/b2LineJoint.h
+c000000004D17F2970000000000001493
+t1293415063
+s5267
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Joints/b2MouseJoint.cpp
+c000000004D17F2970000000000001493
+t1293415063
+s5267
+i<Box2D/Dynamics/Joints/b2MouseJoint.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2TimeStep.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Joints/b2MouseJoint.h
+c000000004D17F2970000000000000DE9
+t1293415063
+s3561
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Joints/b2PrismaticJoint.cpp
+c000000004D17F2970000000000003EB7
+t1293415063
+s16055
+i<Box2D/Dynamics/Joints/b2PrismaticJoint.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2TimeStep.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Joints/b2PrismaticJoint.h
+c000000004D17F297000000000000154E
+t1293415063
+s5454
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Joints/b2PulleyJoint.cpp
+c000000004D17F2970000000000002B94
+t1293415063
+s11156
+i<Box2D/Dynamics/Joints/b2PulleyJoint.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2TimeStep.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Joints/b2PulleyJoint.h
+c000000004D17F2970000000000001148
+t1293415063
+s4424
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Joints/b2RevoluteJoint.cpp
+c000000004D17F297000000000000327D
+t1293415063
+s12925
+i<Box2D/Dynamics/Joints/b2RevoluteJoint.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2TimeStep.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Joints/b2RevoluteJoint.h
+c000000004D17F297000000000000164D
+t1293415063
+s5709
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Joints/b2RopeJoint.cpp
+c000000004D17F297000000000000145D
+t1293415063
+s5213
+i<Box2D/Dynamics/Joints/b2RopeJoint.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2TimeStep.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Joints/b2RopeJoint.h
+c000000004D17F2970000000000000BDE
+t1293415063
+s3038
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Joints/b2WeldJoint.cpp
+c000000004D17F297000000000000198D
+t1293415063
+s6541
+i<Box2D/Dynamics/Joints/b2WeldJoint.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2TimeStep.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Joints/b2WeldJoint.h
+c000000004D17F2970000000000000A29
+t1293415063
+s2601
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/b2Body.cpp
+c000000004D17F29700000000000028A8
+t1293415063
+s10408
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2Fixture.h>
+i<Box2D/Dynamics/b2World.h>
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+i<Box2D/Dynamics/Joints/b2Joint.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/b2Body.h
+c000000004D17F29700000000000055D1
+t1293415063
+s21969
+i<Box2D/Common/b2Math.h>
+i<Box2D/Collision/Shapes/b2Shape.h>
+i<memory>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/b2ContactManager.cpp
+c000000004D17F2970000000000001ACA
+t1293415063
+s6858
+i<Box2D/Dynamics/b2ContactManager.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2Fixture.h>
+i<Box2D/Dynamics/b2WorldCallbacks.h>
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/b2ContactManager.h
+c000000004D17F2970000000000000637
+t1293415063
+s1591
+i<Box2D/Collision/b2BroadPhase.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/b2Fixture.cpp
+c000000004D17F29700000000000014BB
+t1293415063
+s5307
+i<Box2D/Dynamics/b2Fixture.h>
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+i<Box2D/Collision/Shapes/b2CircleShape.h>
+i<Box2D/Collision/Shapes/b2EdgeShape.h>
+i<Box2D/Collision/Shapes/b2PolygonShape.h>
+i<Box2D/Collision/Shapes/b2LoopShape.h>
+i<Box2D/Collision/b2BroadPhase.h>
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Common/b2BlockAllocator.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/b2Fixture.h
+c000000004D17F29700000000000024B5
+t1293415063
+s9397
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/Shapes/b2Shape.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/b2Island.cpp
+c000000004D17F2970000000000004013
+t1293415063
+s16403
+i<Box2D/Collision/b2Distance.h>
+i<Box2D/Dynamics/b2Island.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2Fixture.h>
+i<Box2D/Dynamics/b2World.h>
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+i<Box2D/Dynamics/Contacts/b2ContactSolver.h>
+i<Box2D/Dynamics/Joints/b2Joint.h>
+i<Box2D/Common/b2StackAllocator.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/b2Island.h
+c000000004D17F2970000000000000A60
+t1293415063
+s2656
+i<Box2D/Common/b2Math.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2TimeStep.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/b2TimeStep.h
+c000000004D17F29700000000000004F4
+t1293415063
+s1268
+i<Box2D/Common/b2Settings.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/b2World.cpp
+c000000004D17F2970000000000006CF2
+t1293415063
+s27890
+i<Box2D/Dynamics/b2World.h>
+i<Box2D/Dynamics/b2Body.h>
+i<Box2D/Dynamics/b2Fixture.h>
+i<Box2D/Dynamics/b2Island.h>
+i<Box2D/Dynamics/Joints/b2PulleyJoint.h>
+i<Box2D/Dynamics/Contacts/b2Contact.h>
+i<Box2D/Dynamics/Contacts/b2ContactSolver.h>
+i<Box2D/Collision/b2Collision.h>
+i<Box2D/Collision/b2BroadPhase.h>
+i<Box2D/Collision/Shapes/b2CircleShape.h>
+i<Box2D/Collision/Shapes/b2EdgeShape.h>
+i<Box2D/Collision/Shapes/b2LoopShape.h>
+i<Box2D/Collision/Shapes/b2PolygonShape.h>
+i<Box2D/Collision/b2TimeOfImpact.h>
+i<new>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/b2World.h
+c000000004D17F29700000000000025CC
+t1293415063
+s9676
+i<Box2D/Common/b2Math.h>
+i<Box2D/Common/b2BlockAllocator.h>
+i<Box2D/Common/b2StackAllocator.h>
+i<Box2D/Dynamics/b2ContactManager.h>
+i<Box2D/Dynamics/b2WorldCallbacks.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/b2WorldCallbacks.cpp
+c000000004D17F29700000000000007C2
+t1293415063
+s1986
+i<Box2D/Dynamics/b2WorldCallbacks.h>
+i<Box2D/Dynamics/b2Fixture.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/b2WorldCallbacks.h
+c000000004D17F2970000000000001EC4
+t1293415063
+s7876
+i<Box2D/Common/b2Settings.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/CustomWindow.h
+c000000004D69A4B500000000000000DB
+t1298769077
+s219
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/CustomWindow.m
+c000000004D69A4B50000000000000387
+t1298769077
+s903
+i"CustomWindow.h"
+i<AppKit/AppKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/English.lproj/InfoPlist.strings
+c000000004CED3420000000000000002D
+t1290613792
+s45
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/English.lproj/MainMenu.xib
+c000000004D7D44260000000000030B16
+t1300055078
+s199446
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/MainView.h
+c000000004D69AB5800000000000000D8
+t1298770776
+s216
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/MainView.m
+c000000004D6B027700000000000006AF
+t1298858615
+s1711
+i"MainView.h"
+i"AppDelegate.h"
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/PhysicsCreator_Prefix.pch
+c000000004CED342000000000000000A7
+t1290613792
+s167
+i<Cocoa/Cocoa.h>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/PolyDecompBayazit.h
+c000000004D58312400000000000004AA
+t1297625380
+s1194
+i<Box2D/Box2D.h>
+i<vector>
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/PolyDecompBayazit.mm
+c000000004D5B20740000000000001E98
+t1297817716
+s7832
+i<algorithm>
+i"PolyDecompBayazit.h"
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/QueryCallback.h
+c000000004D1928EE0000000000000218
+t1293494510
+s536
+i"Box2D.h"
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Shape.h
+c000000004D6A700E0000000000000928
+t1298821134
+s2344
+i<Cocoa/Cocoa.h>
+i<Box2D/Box2D.h>
+i"QueryCallback.h"
+i"PolyDecompBayazit.h"
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Shape.m
+c000000004D6B08C20000000000001AA0
+t1298860226
+s6816
+i"Shape.h"
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/CustomWindow.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/MainView.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/PhysicsCreator.LinkFileList
+c000000004DD917AE0000000000001D43
+t1306073006
+s7491
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/PolyDecompBayazit.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/Shape.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2BlockAllocator.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2Body.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2BroadPhase.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2CircleContact.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2CircleShape.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2CollideCircle.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2CollideEdge.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2CollidePolygon.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2Collision.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2Contact.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2ContactManager.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2ContactSolver.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2Distance.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2DistanceJoint.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2DynamicTree.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2EdgeAndCircleContact.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2EdgeAndPolygonContact.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2EdgeShape.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2Fixture.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2FrictionJoint.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2GearJoint.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2Island.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2Joint.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2LineJoint.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2LoopAndCircleContact.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2LoopAndPolygonContact.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2LoopShape.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2Math.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2MouseJoint.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2PolygonAndCircleContact.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2PolygonContact.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2PolygonShape.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2PrismaticJoint.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2PulleyJoint.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2RevoluteJoint.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2RopeJoint.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2Settings.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2StackAllocator.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2TimeOfImpact.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2WeldJoint.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2World.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2WorldCallbacks.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/main.o
+t1306073012
+s2244
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/Release/PhysicsCreator.app
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/Release/PhysicsCreator.app.dSYM
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/Release/PhysicsCreator.app/Contents/Info.plist
+t1306073007
+s964
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/Release/PhysicsCreator.app/Contents/MacOS/PhysicsCreator
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/Release/PhysicsCreator.app/Contents/PkgInfo
+t1306073007
+s8
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/Release/PhysicsCreator.app/Contents/Resources/Box2DConfig.cmake
+t1306073008
+s191
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/Release/PhysicsCreator.app/Contents/Resources/CMakeLists.txt
+t1306073008
+s5580
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/Release/PhysicsCreator.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1306073008
+s92
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/Release/PhysicsCreator.app/Contents/Resources/English.lproj/MainMenu.nib
+t1306073009
+s41518
+
+N/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/main.m
+c000000004CED3420000000000000010B
+t1290613792
+s267
+i<Cocoa/Cocoa.h>
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhysicsCreator_Prefix-bnvoyjaambatrbbcgfuwcfhxciej/PhysicsCreator_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhysicsCreator_Prefix-eoblabvzcbtxglalsctuazqkdxwa/PhysicsCreator_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhysicsCreator_Prefix-gljctxycfroxaddkfdxipoktbpkl/PhysicsCreator_Prefix.pch.pth
+t1306073012
+s9981924
+
+NPhysicsCreator-Info.plist
+c000000004CED354B00000000000003F3
+t1290614091
+s1011
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies327765806#327765807#0(0"0(0#1#0"29836824280170608#0"0#
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/AppDelegate.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/AppDelegate.m" normal i386 objective-c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/CustomWindow.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/CustomWindow.m" normal i386 objective-c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/MainView.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/MainView.m" normal i386 objective-c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/PolyDecompBayazit.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/PolyDecompBayazit.mm" normal i386 objective-c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/Shape.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Shape.m" normal i386 objective-c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2BlockAllocator.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Common/b2BlockAllocator.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2Body.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/b2Body.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2BroadPhase.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Collision/b2BroadPhase.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2CircleContact.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Contacts/b2CircleContact.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2CircleShape.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Collision/Shapes/b2CircleShape.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2CollideCircle.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Collision/b2CollideCircle.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2CollideEdge.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Collision/b2CollideEdge.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2CollidePolygon.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Collision/b2CollidePolygon.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2Collision.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Collision/b2Collision.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2Contact.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Contacts/b2Contact.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2ContactManager.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/b2ContactManager.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2ContactSolver.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Contacts/b2ContactSolver.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2Distance.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Collision/b2Distance.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2DistanceJoint.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Joints/b2DistanceJoint.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2DynamicTree.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Collision/b2DynamicTree.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2EdgeAndCircleContact.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Contacts/b2EdgeAndCircleContact.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2EdgeAndPolygonContact.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Contacts/b2EdgeAndPolygonContact.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2EdgeShape.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Collision/Shapes/b2EdgeShape.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2Fixture.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/b2Fixture.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2FrictionJoint.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Joints/b2FrictionJoint.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2GearJoint.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Joints/b2GearJoint.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2Island.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/b2Island.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2Joint.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Joints/b2Joint.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2LineJoint.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Joints/b2LineJoint.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2LoopAndCircleContact.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Contacts/b2LoopAndCircleContact.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2LoopAndPolygonContact.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Contacts/b2LoopAndPolygonContact.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2LoopShape.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Collision/Shapes/b2LoopShape.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2Math.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Common/b2Math.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2MouseJoint.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Joints/b2MouseJoint.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2PolygonAndCircleContact.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Contacts/b2PolygonAndCircleContact.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2PolygonContact.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Contacts/b2PolygonContact.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2PolygonShape.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Collision/Shapes/b2PolygonShape.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2PrismaticJoint.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Joints/b2PrismaticJoint.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2PulleyJoint.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Joints/b2PulleyJoint.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2RevoluteJoint.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Joints/b2RevoluteJoint.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2RopeJoint.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Joints/b2RopeJoint.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2Settings.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Common/b2Settings.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2StackAllocator.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Common/b2StackAllocator.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2TimeOfImpact.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Collision/b2TimeOfImpact.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2WeldJoint.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/Joints/b2WeldJoint.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2World.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/b2World.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/b2WorldCallbacks.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Dynamics/b2WorldCallbacks.cpp" normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/main.o" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s327765812.160458
+e327765812.623028
+r1
+xCompileC
+xbuild/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/main.o
+x/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@73"Compile /Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/main.m327765812#327765812#0(0"0(0#0#65"/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/main.m8611482080#2016"    cd "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0"    setenv LANG en_US.US-ASCII    "/Developer Xcode 3/usr/bin/clang" -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot "/Developer Xcode 3/SDKs/MacOSX10.6.sdk" -fasm-blocks -mmacosx-version-min=10.4 -gdwarf-2 -fvisibility=hidden -iquote "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/PhysicsCreator-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/PhysicsCreator-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/PhysicsCreator-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/PhysicsCreator-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/Release" "-I/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/Release/include" "-I/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0" "-I/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhysicsCreator_Prefix-gljctxycfroxaddkfdxipoktbpkl/PhysicsCreator_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/main.m" -o "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/English.lproj/MainMenu.xib"
+s327765807.096026
+e327765810.023533
+r1
+xCompileXIB
+x/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/English.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/English.lproj/MainMenu.xib:494: warning: The 'cardWindow' outlet of 'App Delegate' is connected to 'Project Window' but 'MainWindow' is not a kind of 'NSWindow' as specified by the outlet type.
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib327765807#327765810#0(294"/* com.apple.ibtool.document.warnings *//Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/English.lproj/MainMenu.xib:494: warning: The 'cardWindow' outlet of 'App Delegate' is connected to 'Project Window' but 'MainWindow' is not a kind of 'NSWindow' as specified by the outlet type.1(22@152"The 'cardWindow' outlet of 'App Delegate' is connected to 'Project Window' but 'MainWindow' is not a kind of 'NSWindow' as specified by the outlet type.327765810#18446744073709551615#0#0(6@85"/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/English.lproj/MainMenu.xib321747878#494#0#494#0#0"0(0#0#85"/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/English.lproj/MainMenu.xib8615412000#459"    cd "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0"    "/Developer Xcode 3/usr/bin/ibtool" --errors --warnings --notices --output-format human-readable-text --compile "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/Release/PhysicsCreator.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/English.lproj/MainMenu.xib" --sdk "/Developer Xcode 3/SDKs/MacOSX10.6.sdk"0#
+
+CCopyStringsFile "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/Release/PhysicsCreator.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s327765807.093014
+e327765808.317115
+r1
+xCopyStringsFile
+x/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/Release/PhysicsCreator.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+o/Developer Xcode 3/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings:125: warning: Insecure world writable dir /Developer Xcode 3/usr/bin in PATH, mode 040777
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings327765807#327765808#0(187"/Developer Xcode 3/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings:125: warning: Insecure world writable dir /Developer Xcode 3/usr/bin in PATH, mode 0407770(0#0#90"/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/English.lproj/InfoPlist.strings8615688928#428"    cd "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0"    setenv ICONV /usr/bin/iconv    "/Developer Xcode 3/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings" --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/Release/PhysicsCreator.app/Contents/Resources/English.lproj"0#
+
+CCpResource build/Release/PhysicsCreator.app/Contents/Resources/Box2DConfig.cmake Box2D/Box2DConfig.cmake
+s327765808.317237
+e327765808.423185
+r1
+xCpResource
+xbuild/Release/PhysicsCreator.app/Contents/Resources/Box2DConfig.cmake
+xBox2D/Box2DConfig.cmake
+lSLF07#2@28"Copy Box2D/Box2DConfig.cmake327765808#327765808#0(0"0(0#0#82"/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Box2DConfig.cmake8613838944#438"    cd "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0"    "/Developer Xcode 3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/Box2DConfig.cmake" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/Release/PhysicsCreator.app/Contents/Resources"0#
+
+CCpResource build/Release/PhysicsCreator.app/Contents/Resources/CMakeLists.txt Box2D/CMakeLists.txt
+s327765808.318255
+e327765808.423399
+r1
+xCpResource
+xbuild/Release/PhysicsCreator.app/Contents/Resources/CMakeLists.txt
+xBox2D/CMakeLists.txt
+lSLF07#2@25"Copy Box2D/CMakeLists.txt327765808#327765808#0(0"0(0#0#79"/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/CMakeLists.txt8616943648#435"    cd "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0"    "/Developer Xcode 3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/Box2D/CMakeLists.txt" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/Release/PhysicsCreator.app/Contents/Resources"0#
+
+CGenerateDSYMFile "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/Release/PhysicsCreator.app.dSYM" "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/Release/PhysicsCreator.app/Contents/MacOS/PhysicsCreator"
+r0
+
+CLd "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/Release/PhysicsCreator.app/Contents/MacOS/PhysicsCreator" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/Release/PhysicsCreator.app/Contents/Info.plist" PhysicsCreator-Info.plist
+s327765807.071242
+e327765807.092859
+r1
+xProcessInfoPlistFile
+x/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/Release/PhysicsCreator.app/Contents/Info.plist
+xPhysicsCreator-Info.plist
+lSLF07#2@33"Process PhysicsCreator-Info.plist327765807#327765807#0(0"0(0#0#84"/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/PhysicsCreator-Info.plist7309979308043891712#401"    cd "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0"    builtin-infoPlistUtility PhysicsCreator-Info.plist -genpkginfo "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/Release/PhysicsCreator.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/Release/PhysicsCreator.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhysicsCreator_Prefix-gljctxycfroxaddkfdxipoktbpkl/PhysicsCreator_Prefix.pch.pth PhysicsCreator_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s327765810.023836
+e327765812.160218
+r1
+xProcessPCH
+x/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhysicsCreator_Prefix-gljctxycfroxaddkfdxipoktbpkl/PhysicsCreator_Prefix.pch.pth
+xPhysicsCreator_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@36"Precompile PhysicsCreator_Prefix.pch327765810#327765812#0(0"0(0#0#84"/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/PhysicsCreator_Prefix.pch7309979308043891712#1888"    cd "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0"    setenv LANG en_US.US-ASCII    "/Developer Xcode 3/usr/bin/clang" -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot "/Developer Xcode 3/SDKs/MacOSX10.6.sdk" -fasm-blocks -mmacosx-version-min=10.4 -gdwarf-2 -fvisibility=hidden -iquote "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/PhysicsCreator-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/PhysicsCreator-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/PhysicsCreator-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/PhysicsCreator-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/Release" "-I/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/Release/include" "-I/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0" "-I/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/DerivedSources" -c "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/PhysicsCreator_Prefix.pch" -o /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhysicsCreator_Prefix-gljctxycfroxaddkfdxipoktbpkl/PhysicsCreator_Prefix.pch.pth0#
+
+CProcessPCH++ /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhysicsCreator_Prefix-bnvoyjaambatrbbcgfuwcfhxciej/PhysicsCreator_Prefix.pch.gch PhysicsCreator_Prefix.pch normal i386 objective-c++ com.apple.compilers.llvmgcc42
+s327765810.025312
+e327765810.935225
+r0
+xProcessPCH++
+x/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhysicsCreator_Prefix-bnvoyjaambatrbbcgfuwcfhxciej/PhysicsCreator_Prefix.pch.gch
+xPhysicsCreator_Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvmgcc42
+oi686-apple-darwin10-llvm-gcc-4.2: Xcode: No such file or directory
+oi686-apple-darwin10-llvm-gcc-4.2: 3/SDKs/MacOSX10.6.sdk: No such file or directory
+o/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/PhysicsCreator_Prefix.pch:6:28: error: Cocoa/Cocoa.h: No such file or directory
+lSLF07#2@36"Precompile PhysicsCreator_Prefix.pch327765810#327765810#0(289"i686-apple-darwin10-llvm-gcc-4.2: Xcode: No such file or directoryi686-apple-darwin10-llvm-gcc-4.2: 3/SDKs/MacOSX10.6.sdk: No such file or directory/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/PhysicsCreator_Prefix.pch:6:28: error: Cocoa/Cocoa.h: No such file or directory1(4@40"Cocoa/Cocoa.h: No such file or directory327765810#150#139#0(6@84"/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/PhysicsCreator_Prefix.pch312306592#6#0#6#0#28"*: No such file or directory0(0#0#84"/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/PhysicsCreator_Prefix.pch8614800608#1925"    cd "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0"    setenv LANG en_US.US-ASCII    "/Developer Xcode 3/usr/bin/llvm-gcc-4.2" -x objective-c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot "/Developer Xcode 3/SDKs/MacOSX10.6.sdk" -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 -iquote "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/PhysicsCreator-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/PhysicsCreator-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/PhysicsCreator-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/PhysicsCreator-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/Release" "-I/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/Release/include" "-I/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0" "-I/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/DerivedSources" -isysroot /Developer Xcode 3/SDKs/MacOSX10.6.sdk -c "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/PhysicsCreator_Prefix.pch" -o /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhysicsCreator_Prefix-bnvoyjaambatrbbcgfuwcfhxciej/PhysicsCreator_Prefix.pch.gch1#
+
+CProcessPCH++ /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhysicsCreator_Prefix-eoblabvzcbtxglalsctuazqkdxwa/PhysicsCreator_Prefix.pch.gch PhysicsCreator_Prefix.pch normal i386 c++ com.apple.compilers.llvmgcc42
+s327765810.935378
+e327765811.179231
+r0
+xProcessPCH++
+x/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhysicsCreator_Prefix-eoblabvzcbtxglalsctuazqkdxwa/PhysicsCreator_Prefix.pch.gch
+xPhysicsCreator_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+oi686-apple-darwin10-llvm-gcc-4.2: Xcode: No such file or directory
+oi686-apple-darwin10-llvm-gcc-4.2: 3/SDKs/MacOSX10.6.sdk: No such file or directory
+lSLF07#2@36"Precompile PhysicsCreator_Prefix.pch327765810#327765811#0(222"i686-apple-darwin10-llvm-gcc-4.2: Xcode: No such file or directoryi686-apple-darwin10-llvm-gcc-4.2: 3/SDKs/MacOSX10.6.sdk: No such file or directoryCommand /Developer Xcode 3/usr/bin/llvm-gcc-4.2 failed with exit code 11(4@71"Command /Developer Xcode 3/usr/bin/llvm-gcc-4.2 failed with exit code 1327765811#18446744073709551615#0#0(1@0"0(0#0#84"/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/PhysicsCreator_Prefix.pch8616850496#1915"    cd "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0"    setenv LANG en_US.US-ASCII    "/Developer Xcode 3/usr/bin/llvm-gcc-4.2" -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot "/Developer Xcode 3/SDKs/MacOSX10.6.sdk" -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 -iquote "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/PhysicsCreator-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/PhysicsCreator-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/PhysicsCreator-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/PhysicsCreator-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/Release" "-I/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/Release/include" "-I/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0" "-I/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/DerivedSources/i386" "-I/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/PhysicsCreator v1.0.build/Release/PhysicsCreator.build/DerivedSources" -isysroot /Developer Xcode 3/SDKs/MacOSX10.6.sdk -c "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/PhysicsCreator_Prefix.pch" -o /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhysicsCreator_Prefix-eoblabvzcbtxglalsctuazqkdxwa/PhysicsCreator_Prefix.pch.gch1#
+
+CTouch "/Users/matthew/Desktop/My Code Sources/PhysicsCreator v1.0/build/Release/PhysicsCreator.app"
+r0
+

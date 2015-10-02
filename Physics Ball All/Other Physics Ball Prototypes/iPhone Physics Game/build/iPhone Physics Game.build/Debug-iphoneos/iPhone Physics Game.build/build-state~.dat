@@ -1,0 +1,470 @@
+TiPhone Physics Game
+v7
+r0
+t303602684.364118
+cCheck dependencies
+cCpResource "build/Debug-iphoneos/iPhone Physics Game.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app/Info.plist" iPhone_Physics_Game-Info.plist
+cCompileXIB "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/MainWindow.xib"
+cCompileXIB "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/iPhone_Physics_GameViewController.xib"
+cProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Physics_Game_Prefix-euzirldiyqojccghafwncdiuiqyf/iPhone_Physics_Game_Prefix.pch.gch iPhone_Physics_Game_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Physics_Game_Prefix-hgdkncqptvbqabatnidhyfrasuub/iPhone_Physics_Game_Prefix.pch.gch iPhone_Physics_Game_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv6/main.o" "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv6/AppDelegate.o" "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/Classes/AppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv6/ViewController.o" "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/Classes/ViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv7/main.o" "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv6/iPhone Physics Game" normal armv6
+cCompileC "build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv7/AppDelegate.o" "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/Classes/AppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv7/ViewController.o" "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/Classes/ViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv7/iPhone Physics Game" normal armv7
+cCreateUniversalBinary "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app/iPhone Physics Game" normal "armv6 armv7"
+cGenerateDSYMFile "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app.dSYM" "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app/iPhone Physics Game"
+cProcessProductPackaging "/Users/matthew/Library/MobileDevice/Provisioning Profiles/D3FFF712-DAA3-4DAE-8EB7-847CC3C7E935.mobileprovision" "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app/embedded.mobileprovision"
+cTouch "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game.xcent"
+cCodeSign "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004C6591150000000000000110
+t1281724693
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
+c000000004C5B401F00000000000001A7
+t1281048607
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004C5B401F00000000000001E5
+t1281048607
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C296E2A00000000000009CD
+t1277783594
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C296F120000000002D563E0
+t1277783826
+s47539168
+
+N/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/Classes/AppDelegate.m
+c000000004C6864780000000000000A90
+t1281909880
+s2704
+i"iPhone_Physics_GameAppDelegate.h"
+i"iPhone_Physics_GameViewController.h"
+
+N/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/Classes/ViewController.m
+c000000004C68647800000000000005C5
+t1281909880
+s1477
+i"iPhone_Physics_GameViewController.h"
+
+N/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/Classes/iPhone_Physics_GameAppDelegate.h
+c000000004C6864340000000000000229
+t1281909812
+s553
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/Classes/iPhone_Physics_GameAppDelegate.m
+c000000004C6864340000000000000AC9
+t1281909812
+s2761
+i"iPhone_Physics_GameAppDelegate.h"
+i"iPhone_Physics_GameViewController.h"
+
+N/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/Classes/iPhone_Physics_GameViewController.h
+c000000004C6864340000000000000114
+t1281909812
+s276
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/Classes/iPhone_Physics_GameViewController.m
+c000000004C68643400000000000005EB
+t1281909812
+s1515
+i"iPhone_Physics_GameViewController.h"
+
+N/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/MainWindow.xib
+c000000004C6864340000000000004EB9
+t1281909812
+s20153
+
+N/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app
+t1281909884
+s374
+
+N/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app.dSYM
+t1281909883
+s102
+
+N/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app/Info.plist
+t1281909880
+s780
+
+N/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app/MainWindow.nib
+t1281909881
+s1147
+
+N/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app/PkgInfo
+t1281909880
+s8
+
+N/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app/ResourceRules.plist
+t1281909880
+s485
+
+N/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app/embedded.mobileprovision
+t1281909883
+s7362
+
+N/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app/iPhone Physics Game
+t1281909883
+s41496
+
+N/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app/iPhone_Physics_GameViewController.nib
+t1281909881
+s795
+
+N/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv6/AppDelegate.o
+t1281909882
+s46852
+
+N/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv6/ViewController.o
+t1281909883
+s34176
+
+N/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv6/iPhone Physics Game
+t1281909883
+s16920
+
+N/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv6/iPhone Physics Game.LinkFileList
+c000000004C68647800000000000001F1
+t1281909880
+s497
+
+N/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv6/iPhone_Physics_GameAppDelegate.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv6/iPhone_Physics_GameViewController.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv6/main.o
+t1281909882
+s6480
+
+N/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv7/AppDelegate.o
+t1281909883
+s46768
+
+N/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv7/ViewController.o
+t1281909883
+s34156
+
+N/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv7/iPhone Physics Game
+t1281909883
+s16920
+
+N/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv7/iPhone Physics Game.LinkFileList
+c000000004C68647800000000000001F1
+t1281909880
+s497
+
+N/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv7/iPhone_Physics_GameAppDelegate.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv7/iPhone_Physics_GameViewController.o
+t2
+s0
+
+N/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv7/main.o
+t1281909883
+s6464
+
+N/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game.xcent
+t1281909883
+s444
+
+N/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/iPhone_Physics_GameViewController.xib
+c000000004C6864340000000000001A75
+t1281909812
+s6773
+
+N/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/iPhone_Physics_Game_Prefix.pch
+c000000004C68643400000000000000CF
+t1281909812
+s207
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/main.m
+c000000004C6864340000000000000177
+t1281909812
+s375
+i<UIKit/UIKit.h>
+
+N/Users/matthew/Library/MobileDevice/Provisioning Profiles/D3FFF712-DAA3-4DAE-8EB7-847CC3C7E935.mobileprovision
+c000000004C58FB410000000000001CC2
+t1280899905
+s7362
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Physics_Game_Prefix-euzirldiyqojccghafwncdiuiqyf/iPhone_Physics_Game_Prefix.pch.gch
+t1281909882
+s9831984
+
+N/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Physics_Game_Prefix-hgdkncqptvbqabatnidhyfrasuub/iPhone_Physics_Game_Prefix.pch.gch
+t1281909882
+s10290736
+
+NiPhone_Physics_Game-Info.plist
+c000000004C686434000000000000038D
+t1281909812
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies303602680#303602680#0(0"0(0#1#0"7881659027575498752#0"0#
+
+CCodeSign "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app"
+s303602683.771237
+e303602684.363926
+r1
+xCodeSign
+x/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app
+lSLF07#2@55"CodeSign "build/Debug-iphoneos/iPhone Physics Game.app"303602683#303602684#0(0"0(0#0#103"/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app8595354752#798"    cd "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Matthew French (Z5HX5X3D57)" "--resource-rules=/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app/ResourceRules.plist" --entitlements "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game.xcent" "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app"0#
+
+CCompileC "build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv6/AppDelegate.o" "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/Classes/AppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s303602682.846784
+e303602683.000732
+r1
+xCompileC
+xbuild/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv6/AppDelegate.o
+x/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/Classes/AppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/matthew/Desktop/My Code Sources/iPhone Physics Game/Classes/AppDelegate.m303602682#303602683#0(0"0(0#0#80"/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/Classes/AppDelegate.m8610420032#2228"    cd "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/include" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/DerivedSources/armv6" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Physics_Game_Prefix-euzirldiyqojccghafwncdiuiqyf/iPhone_Physics_Game_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/Classes/AppDelegate.m" -o "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv6/AppDelegate.o"0#
+
+CCompileC "build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv6/ViewController.o" "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/Classes/ViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s303602682.988314
+e303602683.086276
+r1
+xCompileC
+xbuild/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv6/ViewController.o
+x/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/Classes/ViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/matthew/Desktop/My Code Sources/iPhone Physics Game/Classes/ViewController.m303602682#303602683#0(0"0(0#0#83"/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/Classes/ViewController.m8596201280#2234"    cd "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/include" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/DerivedSources/armv6" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Physics_Game_Prefix-euzirldiyqojccghafwncdiuiqyf/iPhone_Physics_Game_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/Classes/ViewController.m" -o "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv6/ViewController.o"0#
+
+CCompileC "build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv6/iPhone_Physics_GameAppDelegate.o" "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/Classes/iPhone_Physics_GameAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv6/iPhone_Physics_GameViewController.o" "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/Classes/iPhone_Physics_GameViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv6/main.o" "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s303602682.845357
+e303602682.988173
+r1
+xCompileC
+xbuild/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv6/main.o
+x/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/matthew/Desktop/My Code Sources/iPhone Physics Game/main.m303602682#303602682#0(0"0(0#0#65"/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/main.m8604910816#2206"    cd "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/include" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/DerivedSources/armv6" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Physics_Game_Prefix-euzirldiyqojccghafwncdiuiqyf/iPhone_Physics_Game_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/main.m" -o "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv6/main.o"0#
+
+CCompileC "build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv7/AppDelegate.o" "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/Classes/AppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s303602683.087988
+e303602683.191455
+r1
+xCompileC
+xbuild/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv7/AppDelegate.o
+x/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/Classes/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/matthew/Desktop/My Code Sources/iPhone Physics Game/Classes/AppDelegate.m303602683#303602683#0(0"0(0#0#80"/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/Classes/AppDelegate.m8610222784#2228"    cd "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/include" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/DerivedSources/armv7" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Physics_Game_Prefix-hgdkncqptvbqabatnidhyfrasuub/iPhone_Physics_Game_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/Classes/AppDelegate.m" -o "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv7/AppDelegate.o"0#
+
+CCompileC "build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv7/ViewController.o" "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/Classes/ViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s303602683.191593
+e303602683.280710
+r1
+xCompileC
+xbuild/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv7/ViewController.o
+x/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/Classes/ViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/matthew/Desktop/My Code Sources/iPhone Physics Game/Classes/ViewController.m303602683#303602683#0(0"0(0#0#83"/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/Classes/ViewController.m8611723488#2234"    cd "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/include" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/DerivedSources/armv7" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Physics_Game_Prefix-hgdkncqptvbqabatnidhyfrasuub/iPhone_Physics_Game_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/Classes/ViewController.m" -o "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv7/ViewController.o"0#
+
+CCompileC "build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv7/iPhone_Physics_GameAppDelegate.o" "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/Classes/iPhone_Physics_GameAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv7/iPhone_Physics_GameViewController.o" "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/Classes/iPhone_Physics_GameViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv7/main.o" "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s303602683.000893
+e303602683.087864
+r1
+xCompileC
+xbuild/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv7/main.o
+x/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/matthew/Desktop/My Code Sources/iPhone Physics Game/main.m303602683#303602683#0(0"0(0#0#65"/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/main.m8611247168#2206"    cd "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/include" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/DerivedSources/armv7" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/DerivedSources" -include /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Physics_Game_Prefix-hgdkncqptvbqabatnidhyfrasuub/iPhone_Physics_Game_Prefix.pch -c "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/main.m" -o "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv7/main.o"0#
+
+CCompileXIB "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/MainWindow.xib"
+s303602680.855871
+e303602681.440215
+r1
+xCompileXIB
+x/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib303602680#303602681#0(0"0(0#0#73"/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/MainWindow.xib8596201824#620"    cd "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app/MainWindow.nib" "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/MainWindow.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCompileXIB "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/iPhone_Physics_GameViewController.xib"
+s303602680.856929
+e303602681.479590
+r1
+xCompileXIB
+x/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/iPhone_Physics_GameViewController.xib
+lSLF07#2@48"CompileXIB iPhone_Physics_GameViewController.xib303602680#303602681#0(0"0(0#0#96"/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/iPhone_Physics_GameViewController.xib8611488992#666"    cd "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app/iPhone_Physics_GameViewController.nib" "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/iPhone_Physics_GameViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCpResource "build/Debug-iphoneos/iPhone Physics Game.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+s303602680.824226
+e303602680.855749
+r1
+xCpResource
+xbuild/Debug-iphoneos/iPhone Physics Game.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist303602680#303602680#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist7297009443364890624#536"    cd "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app"0#
+
+CCreateUniversalBinary "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app/iPhone Physics Game" normal "armv6 armv7"
+s303602683.633009
+e303602683.685095
+r1
+xCreateUniversalBinary
+x/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app/iPhone Physics Game
+xnormal
+xarmv6 armv7
+lSLF07#2@109"CreateUniversalBinary "build/Debug-iphoneos/iPhone Physics Game.app/iPhone Physics Game" normal "armv6 armv7"303602683#303602683#0(0"0(0#0#70"/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/armv6 armv78610646720#702"    cd "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv6/iPhone Physics Game" "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv7/iPhone Physics Game" -output "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app/iPhone Physics Game"0#
+
+CGenerateDSYMFile "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app.dSYM" "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app/iPhone Physics Game"
+s303602683.685247
+e303602683.737951
+r1
+xGenerateDSYMFile
+x/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app.dSYM
+x/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app/iPhone Physics Game
+lSLF07#2@135"GenerateDSYMFile "build/Debug-iphoneos/iPhone Physics Game.app.dSYM" "build/Debug-iphoneos/iPhone Physics Game.app/iPhone Physics Game"303602683#303602683#0(0"0(0#0#123"/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app/iPhone Physics Game8610143616#464"    cd "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app/iPhone Physics Game" -o "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app.dSYM"0#
+
+CLd "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv6/iPhone Physics Game" normal armv6
+s303602683.086408
+e303602683.632231
+r1
+xLd
+x/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv6/iPhone Physics Game
+xnormal
+xarmv6
+lSLF07#2@177"Link /Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv6/iPhone Physics Game303602683#303602683#0(0"0(0#0#0"8596927712#1041"    cd "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk "-L/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos" "-F/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos" -filelist "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv6/iPhone Physics Game.LinkFileList" -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv6/iPhone Physics Game"0#
+
+CLd "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv7/iPhone Physics Game" normal armv7
+s303602683.280839
+e303602683.632911
+r1
+xLd
+x/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv7/iPhone Physics Game
+xnormal
+xarmv7
+lSLF07#2@177"Link /Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv7/iPhone Physics Game303602683#303602683#0(0"0(0#0#0"8609932000#1041"    cd "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk "-L/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos" "-F/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos" -filelist "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv7/iPhone Physics Game.LinkFileList" -dead_strip -miphoneos-version-min=4.0 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/Objects-normal/armv7/iPhone Physics Game"0#
+
+CProcessInfoPlistFile "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app/Info.plist" iPhone_Physics_Game-Info.plist
+s303602680.830076
+e303602680.835301
+r1
+xProcessInfoPlistFile
+x/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app/Info.plist
+xiPhone_Physics_Game-Info.plist
+lSLF07#2@38"Process iPhone_Physics_Game-Info.plist303602680#303602680#0(0"0(0#0#89"/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/iPhone_Physics_Game-Info.plist8610583552#698"    cd "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iPhone_Physics_Game-Info.plist -genpkginfo "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app/ResourceRules.plist" -o "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app/Info.plist"0#
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Physics_Game_Prefix-euzirldiyqojccghafwncdiuiqyf/iPhone_Physics_Game_Prefix.pch.gch iPhone_Physics_Game_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s303602681.479788
+e303602682.719879
+r1
+xProcessPCH
+x/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Physics_Game_Prefix-euzirldiyqojccghafwncdiuiqyf/iPhone_Physics_Game_Prefix.pch.gch
+xiPhone_Physics_Game_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile iPhone_Physics_Game_Prefix.pch303602681#303602682#0(0"0(0#0#89"/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/iPhone_Physics_Game_Prefix.pch8748330646821040128#2070"    cd "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/include" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/DerivedSources/armv6" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/DerivedSources" -c "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/iPhone_Physics_Game_Prefix.pch" -o /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Physics_Game_Prefix-euzirldiyqojccghafwncdiuiqyf/iPhone_Physics_Game_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Physics_Game_Prefix-hgdkncqptvbqabatnidhyfrasuub/iPhone_Physics_Game_Prefix.pch.gch iPhone_Physics_Game_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s303602681.481188
+e303602682.845205
+r1
+xProcessPCH
+x/var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Physics_Game_Prefix-hgdkncqptvbqabatnidhyfrasuub/iPhone_Physics_Game_Prefix.pch.gch
+xiPhone_Physics_Game_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile iPhone_Physics_Game_Prefix.pch303602681#303602682#0(0"0(0#0#89"/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/iPhone_Physics_Game_Prefix.pch8611196288#2070"    cd "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game-generated-files.hmap" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game-own-target-headers.hmap" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game-all-target-headers.hmap" -iquote "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game-project-headers.hmap" "-F/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/include" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/DerivedSources/armv7" "-I/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/DerivedSources" -c "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/iPhone_Physics_Game_Prefix.pch" -o /var/folders/EX/EXG9IOPoFEKMOV4CMoNC2U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_Physics_Game_Prefix-hgdkncqptvbqabatnidhyfrasuub/iPhone_Physics_Game_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/matthew/Library/MobileDevice/Provisioning Profiles/D3FFF712-DAA3-4DAE-8EB7-847CC3C7E935.mobileprovision" "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app/embedded.mobileprovision"
+s303602683.738083
+e303602683.739774
+r1
+xProcessProductPackaging
+x/Users/matthew/Library/MobileDevice/Provisioning Profiles/D3FFF712-DAA3-4DAE-8EB7-847CC3C7E935.mobileprovision
+x/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app/embedded.mobileprovision
+lSLF07#2@208"ProcessProductPackaging "/Users/matthew/Library/MobileDevice/Provisioning Profiles/D3FFF712-DAA3-4DAE-8EB7-847CC3C7E935.mobileprovision" "build/Debug-iphoneos/iPhone Physics Game.app/embedded.mobileprovision"303602683#303602683#0(0"0(0#0#128"/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app/embedded.mobileprovision8596620640#481"    cd "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/matthew/Library/MobileDevice/Provisioning Profiles/D3FFF712-DAA3-4DAE-8EB7-847CC3C7E935.mobileprovision" -o "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game.xcent"
+s303602683.743982
+e303602683.771134
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
+x/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game.xcent
+lSLF07#2@213"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist "build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game.xcent"303602683#303602683#0(0"0(0#0#157"/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game.xcent8596148448#512"    cd "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist -entitlements -format xml -o "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/iPhone Physics Game.build/Debug-iphoneos/iPhone Physics Game.build/iPhone Physics Game.xcent"0#
+
+CTouch "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app"
+s303602683.739902
+e303602683.743849
+r1
+xTouch
+x/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app
+lSLF07#2@109"Touch /Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app303602683#303602683#0(0"0(0#0#0"8595967072#320"    cd "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/matthew/Desktop/My Code Sources/iPhone Physics Game/build/Debug-iphoneos/iPhone Physics Game.app"0#
+
